@@ -1,0 +1,187 @@
+---
+title: "EEE740 Assessment 1 - Description of Planning, Teaching and Supporting Learning"
+author: "Mark Ziemann - ID: 219075807"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: readable
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# {.tabset}
+## Assessment Task 
+### Brief Description of Assessment Task
+The student will describe how they plan, teach and support learning that demonstrates active learning,
+inclusivity and appropriate use of learning technologies.
+
+### Details of Student Output
+Description of planning, teaching and supporting learning that demonstrates active learning, inclusivity and
+appropriate use of learning technologies.
+
+### Grading and weighting (% total mark for unit)
+40% ‐ Ungraded Pass.
+Word Limit: 1500 words.
+
+### Assessment of Unit Learning Outcomes, Graduate Learning Outcomes and UK
+Professional Standards Framework Descriptors
+By completing this task, you will be addressing ULO 1; GLOs 1, 3 and 8; and A1, A2, K1, K2, K3, V1, V2 and V4
+from the UK Professional Standards Framework. In this respect, it is important to review the assessment
+criteria and the marking rubric to ensure that you are addressing all the elements.
+
+### Completing Assessment Task One
+To complete Assessment Task 1 you will need to:
+
+* Use the principles of constructive alignment to describe how you develop Intended Learning
+Outcomes that are appropriate for the level of study and which clearly describe what the student will
+know / be able to do by the completion of the unit of study (ULO 1, GLO 1, A1, K1 and K2).
+
+* Identify Teaching and Learning Activities that activate learning in the Intended Learning Outcomes
+and demonstrate contemporary, active and inclusive teaching practices in higher education (ULO 1,
+GLO 1, GLO 8, A1, A2, K1, K2, K3, V1, V2, and V4).
+
+* Describe how your pedagogical practices support student learning including making reference to your
+beliefs about how students learn and what these beliefs entail for the approaches that you take in
+your teaching (ULO 1, A2, K1, K2, K3, and V1).
+
+* Provide evidence for how the Assessment Tasks are aligned to the appropriate ILOs and explain how
+the Assessment Tasks are requiring students to engage with the action verbs in the ILOs (ULO 1, GLO
+1, A1, K1 and K2).
+
+* Explain the rationale for your use of learning technologies in your unit of study with reference to
+Intended Learning Outcomes, Teaching and Learning Activities and Assessment Tasks (ULO 1, GLO 3,
+A1, A2, K1, and K2).
+
+### Assessment Task 1 Rubric
+Whilst assessments in this unit will be marked in terms of 'demonstrated' or 'not demonstrated', the rubrics
+present different gradations of demonstrated to guide you in completing the Assessment Tasks. The feedback
+that you receive on your assessment will provide you with more information on the extent to which you have
+demonstrated or not demonstrated achievement of the Intended Learning Outcomes the Professional
+Standard Descriptors for this unit.
+
+## My response
+### Introduction
+I will begin my description of how I plan, teach and support learning by mentioning briefly the theories of
+learning that guide me, most of which I became formally aquanted with during my study of EEE730 - 
+Contextualising Learning and Teaching in Higher Education. My teaching is mostly influenced by Constructivism,
+Social Learning Theory, Feminism and Humanism. The works of Professor Eric Mazur strongly resonate with me,
+in particular his approaches to the flipped classrooms, skill development, measuring learning outcomes and
+assessment ([Mazur 2013](https://www.youtube.com/watch?v=92O6NlOGt1o)). The primary thesis of Mazur is that 
+education is much more than the transfer of information, rather, meaningful skills are developed with 
+practise and trial and error. It is with practise and self-knowledge that learners reflect on
+the importance of learning as a lifelong journey.
+
+### Planning
+Planning is the most important aspect of delivering a unit. For a unit to be successful, the goals of the 
+unit need to be clearly defined and fit coherently within the graduate learning goals for the course. 
+The learning goals for the unit need to be aligned with the assessment tasks and the learning activities.
+If these are not aligned, the learning experience of the students are diminished:
+
+* Learning outcomes overlap between units. Redundancies like this can diminish student enthusiasm and waste
+student and teacher efforts.
+
+* Assessments that are not aligned to the learning outcomes can cause students to become cynical. Students
+begin to think that the assessments are simply boxes to tick , hurdles to summount, busy-work. Students see
+the unit as disjointed and a waste of time.
+
+* When the learning activities do not align with what is assessed, students will either not engage with these
+activities or when they do engage, feel they have not been properly rewarded for doing so. 
+
+It is also important that the students have sufficient time to develop deep thinking on any topic. There is 
+a trade-off that lecturers must come to terms with. Students have a finite bandwidth; by "covering" a different 
+topic in each of the 11 teaching weeks, we guarantee that students will develop only a very superficial
+understanding of each. Certainly, in my own experience, the prime time for teaching new concepts is the first
+six or seven weeks of trimester. As students get closer to the end of trimester, they are more focused on 
+juggling the many assessment deadlines and exams they need to complete that they are no longer in the mindset
+to receive new information.
+
+Students need space and time to assimilate this information, and motivation to focus on
+particular learning activities, which comes partly from intrinsic motivation but also the need to attain a 
+satisfactory grade. As stated earlier, practice is the most important contributor to student engangement and
+learning, so there should be no topics presented that are not practiced with assessment. 
+
+On the other hand if we focus on only one or topics in depth then students may miss out on some information.
+There is somewhere between these extremes a good balance. This optimal balance should focus on the more 
+fundamental concepts which intertwine between the minor topic. 
+
+Inertia in unit plans.
+
+Not making too much work for the teacher in terms of marking.
+
+Mentoring and feedback from teaching mentors
+
+Taking upon feedback from students (not only the high engagement students but all)
+
+### Teaching
+The overwhelmingly the most important aspect to quality teaching is _what the students do_,
+not their innate capability, nor the manner in which the information is given to the students.
+
+With the wonders of technology, the transmission of information part can be conducted with online learning
+materials including videos, lecturer's notes and readings.
+
+Put the information transfer online. It is the component that is less important than the assimilation of
+this knowledge (but higher educators seem to invest most significantly into this aspect).
+
+So what do we do in lectures and tutorials
+
+Mazur (2013) suggest the following recipe (Figure 1). In the lecture the teacher poses questions and 
+explain the details in the question, then give the students a few minutes to consider their answer in
+silent individual contemplation. The next step is to poll the students, the 
+
+Poll the students individually. (Do not show the poll results yet)
+
+Get them to convince another student who had a different answer for several minutes.
+
+Poll again. Show the class the re-polling results.
+
+Explain the basis of the answer. If the class is divided, then get different student perspectives.
+
+```{r,teachingflowchart,echo=FALSE, fig.cap="Figure 1. A recipe for social learning."}
+library(DiagrammeR)
+grViz("digraph flowchart {
+      # node definitions with substituted label text
+      node [fontname = Helvetica, shape = rectangle]        
+      tab1 [label = '@@1']
+      tab2 [label = '@@2']
+      tab3 [label = '@@3']
+      tab4 [label = '@@4']
+      tab5 [label = '@@5']
+      tab6 [label = '@@6']
+      
+      # edge definitions with the node IDs
+      tab1 -> tab2 -> tab3 -> tab4 -> tab5 -> tab6 -> tab1 ;
+      }
+
+      [1]: 'question'
+      [2]: 'think'
+      [3]: 'poll'
+      [4]: 'discuss'
+      [5]: 'repoll'
+      [6]: 'explain'
+      ")
+```
+
+The wonderful thing about this type of lecture format is that it is:
+
+* Highly active. Students must engage their mind into the discussion.
+
+* Teacher gets immediate feedback; informs teaching practices
+
+* Students assess their own knowledge; get immediate feedback; students can reflect on their own performance
+
+* Time efficient: classroom time is best used for interactive sessions. Peer instruction helps students get
+formative feedback which is not dependent on the teaching staff marking assignments.
+
+### Supporting Learning
+
+
+### References
+
+Mazur, E 2013, _Confessions of a Converted Lecturer_. Retrieved 2 May 2020, <https://www.youtube.com/watch?v=92O6NlOGt1o>.
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
