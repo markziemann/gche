@@ -1,0 +1,65 @@
+---
+title: "Description of Planning, Teaching and Supporting Learning"
+author: "EEE740 Assessment 1"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: readable
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Assessment Task 
+### Brief Description of Assessment Task
+The student will describe how they plan, teach and support learning that demonstrates active learning,
+inclusivity and appropriate use of learning technologies.
+
+### Details of Student Output
+Description of planning, teaching and supporting learning that demonstrates active learning, inclusivity and
+appropriate use of learning technologies.
+
+### Grading and weighting (% total mark for unit)
+40% ‐ Ungraded Pass.
+Word Limit: 1500 words.
+
+### Assessment of Unit Learning Outcomes, Graduate Learning Outcomes and UK
+Professional Standards Framework Descriptors
+By completing this task, you will be addressing ULO 1; GLOs 1, 3 and 8; and A1, A2, K1, K2, K3, V1, V2 and V4
+from the UK Professional Standards Framework. In this respect, it is important to review the assessment
+criteria and the marking rubric to ensure that you are addressing all the elements.
+
+### Completing Assessment Task One
+To complete Assessment Task 1 you will need to:
+
+* Use the principles of constructive alignment to describe how you develop Intended Learning
+Outcomes that are appropriate for the level of study and which clearly describe what the student will
+know / be able to do by the completion of the unit of study (ULO 1, GLO 1, A1, K1 and K2).
+
+* Identify Teaching and Learning Activities that activate learning in the Intended Learning Outcomes
+and demonstrate contemporary, active and inclusive teaching practices in higher education (ULO 1,
+GLO 1, GLO 8, A1, A2, K1, K2, K3, V1, V2, and V4).
+
+* Describe how your pedagogical practices support student learning including making reference to your
+beliefs about how students learn and what these beliefs entail for the approaches that you take in
+your teaching (ULO 1, A2, K1, K2, K3, and V1).
+
+* Provide evidence for how the Assessment Tasks are aligned to the appropriate ILOs and explain how
+the Assessment Tasks are requiring students to engage with the action verbs in the ILOs (ULO 1, GLO
+1, A1, K1 and K2).
+
+* Explain the rationale for your use of learning technologies in your unit of study with reference to
+Intended Learning Outcomes, Teaching and Learning Activities and Assessment Tasks (ULO 1, GLO 3,
+A1, A2, K1, and K2).
+
+### Assessment Task 1 Rubric
+Whilst assessments in this unit will be marked in terms of 'demonstrated' or 'not demonstrated', the rubrics
+present different gradations of demonstrated to guide you in completing the Assessment Tasks. The feedback
+that you receive on your assessment will provide you with more information on the extent to which you have
+demonstrated or not demonstrated achievement of the Intended Learning Outcomes the Professional
+Standard Descriptors for this unit.
+
