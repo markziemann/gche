@@ -21,13 +21,17 @@ Social Learning Theory, Feminism and Humanism. The works of Professor Eric Mazur
 in particular his approaches to the flipped classrooms, skill development, measuring learning outcomes and
 assessment ([Mazur 2013](https://www.youtube.com/watch?v=92O6NlOGt1o)). The primary thesis of Mazur is that 
 education is much more than the transfer of information, rather, meaningful skills are developed with 
-practise and trial and error. It is with practise and self-knowledge that learners reflect on
-the importance of learning as a lifelong journey.
+communication, practise and trial and error. It is with practise and self-knowledge that learners reflect on
+the importance of learning as a lifelong journey. In this paper I will be describing the process that I
+undertake to deliver a unit from planning through to feedback and assessment. 
 
 ### Planning
+
 Planning is the most important aspect of delivering a unit. For a unit to be successful, the goals of the 
 unit need to be clearly defined and fit coherently within the graduate learning goals for the course. 
-The learning goals for the unit need to be aligned with the assessment tasks and the learning activities.
+The learning outcomes need to be commensurate for the level of study, that is neither too simple nor too
+complex. The learining outcomes need to be highly specific. The learning goals for the unit need to be 
+aligned with the assessment tasks and the learning activities.
 If these are not aligned, the learning experience of the students are diminished:
 
 * Learning outcomes overlap between units. Redundancies like this can diminish student enthusiasm and waste
@@ -39,6 +43,28 @@ the unit as disjointed and a waste of time.
 
 * When the learning activities do not align with what is assessed, students will either not engage with these
 activities or when they do engage, feel they have not been properly rewarded for doing so. 
+
+In summary, formulating unit learning outcomes (ULOs) is critical. When doing this, I always remind myself 
+as to what are the graduate learning outcomes are for the course. I see that as the end goal. Then I review the 
+learning outcomes for the other units that students will complete in their course. Based on this information I
+can focus on the specific skills that need to be emphasized in the unit I am planning. In addition, I always
+seek advice from course coordinators, who generally have a good overview of the areas that need attention in a 
+course. The ULOs need to be specific. Saying students should "understand concept X" is unsatisfactory because
+understanding can be superficial or deep. I refer to the verbs in Bloom's taxonomy (Figure 1) and select the
+highest level that is realistic for most students to attain. 
+
+![BloomsTax](blooms.png)
+Figure 1. Verbs from Bloom's taxonomy are useful in formulating well defined ULOs. Graphic source: Fractal Learning 2017).
+
+Four or five specific and well crafted ULOs that span different levels of the taxonomy is appropriate. This is 
+in contrast to conventional units where there could be up to 10 different topics taught. A skilled unit designer
+will be able to identify and emphasize the core and threshold concepts that interweave the different topics 
+together. They will focus on what students are required to _do_ with the knowledge and skills they have 
+attained. In the end it is what the student _does_ which is more important than what the student _is_ or the 
+teaching styles used (Biggs and Tang 2011, p20).
+
+The specific verbs used in the design of ULOs are particularly helpful in designing assessment tasks. It also 
+reinforces to teachers to design assessment tasks that reach higher in the taxonomy.
 
 It is also important that the students have sufficient time to develop deep thinking on any topic. There is 
 a trade-off that lecturers must come to terms with. Students have a finite bandwidth; by "covering" a different 
@@ -77,7 +103,7 @@ this knowledge (but higher educators seem to invest most significantly into this
 
 So what do we do in lectures and tutorials
 
-Mazur (2013) suggest the following recipe (Figure 1). In the lecture the teacher poses questions and 
+Mazur (2013) suggest the following recipe (Figure 2). In the lecture the teacher poses questions and 
 explain the details in the question, then give the students a few minutes to consider their answer in
 silent individual contemplation. The next step is to poll the students, the 
 
@@ -89,7 +115,7 @@ Poll again. Show the class the re-polling results.
 
 Explain the basis of the answer. If the class is divided, then get different student perspectives.
 
-```{r,teachingflowchart,echo=FALSE, fig.cap="Figure 1. A recipe for social learning."}
+```{r,teachingflowchart,echo=FALSE, fig.cap="Figure 2. A recipe for social learning."}
 library(DiagrammeR)
 grViz("digraph flowchart {
       # node definitions with substituted label text
@@ -129,8 +155,13 @@ formative feedback which is not dependent on the teaching staff marking assignme
 
 
 ### References
+Biggs, J and Tang, Catherine 2011, _Teaching for Quality Learning at University_, 4th Edition.
+Open University Press, England.
 
-Mazur, E 2013, _Confessions of a Converted Lecturer_. Retrieved 2 May 2020, <https://www.youtube.com/watch?v=92O6NlOGt1o>.
+Mazur, E 2013, _Confessions of a Converted Lecturer_. Retrieved 2 May 2020,
+<https://www.youtube.com/watch?v=92O6NlOGt1o>.
 
+Fractus Learning 2017, _Bloom’s Taxonomy_. Retrieved 10 May 2020, 
+<http://www.fractuslearning.com/wp-content/uploads/2016/01/blooms-taxonomy-verbs.png>.
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
