@@ -1,0 +1,63 @@
+---
+title: "EEE740 Assessment 2 - Evidence‐Based Critical Reflection on Practice"
+author: "Mark Ziemann - ID: 219075807"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: readable
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part A - critical reflection on planning, teaching and supporting learning in terms of core knowledge and professional values
+
+1500 words or equivalent
+
+* Successful engagement across A1 (design, and plan earning activities) and A2 (teach and support learning). Clear concise comprehensive and criticallt compelling evidence of engagement across areas A1 and A2
+
+* Succesful engagement in appropriate teaching practices relates to areas of activity (A2) Clear, concise, comrehensive and critically compelling  evidence of successful engagement in appropriate teaching practices related to the areas of activity
+
+* Appropriate knowledge of K1, the subject material, K2 the appropriate learning methods for teaching, learning and assessing in the subject area and at the level of the academic programme and K3, how students learn both generally and within their subject disciplinary areas. USe and value of appropriate learning technologies to support students in achiving learning outcomes. In depth detailed and critical knowledge of K1 K2 and K3. Use and value of learning technologis is clearly and convincingly explained with substantive reference to pedagogical research. There is a clear and convincing explanation of the way in which technologies can supportstudents in achieving learning outcomes
+
+* A commitment to V1, respect individual learners and diverse learning communities and V2 promote participation in Higher Ed and equality of opportunity for learners, and V4 acknowledge the wider context in which higher ed operated recognising the implications for professional practise. Extensive, clear and critically compelling evidence of a commitment to V1, V2 and V4
+
+* Successful incorporation of subject and pedagogic research and/or scholarship within activities, as part of an integrate approach to academic practice. Extensive, clear and critically compelling evidence of the above.
+
+## Part B - Evidence that demonstrates ongoing professional development in planning and teaching
+
+1000 words or equivalent
+
+Critically analyse ongoing professional development with respect to past experience, current
+engagement and future plans. You will also need to provide an appropriate range of evidence and
+artefacts that demonstrate ongoing professional development, influence and success in planning and
+teaching practice. In doing this you might like to consider the following suggestions:
+
+* Make reference to your past professional development activities whilst drawing
+appropriately on the research based content from this unit as a part of your description of
+your current professional development. Make reference to how your engagement with this
+unit has informed your plans for future professional development.
+
+* Draw on the artefacts that you have produced whilst progressing through this unit as a
+foundation for evidencing your current professional development. Contextualize this with
+evidence from the past and for the future e.g. a plan for professional development moving
+forwards.
+
+
+Evidence in engaging in continuing professional development in subjects/disciplines and their pedagogy incorporating research, scholarship and the evaluation of professional practices. 
+
+Provides an extensive and varied range of evidence and artefacts that demonstrate a strong and clear commitment to ongoing professional development, influence and success in planning and teaching practise
+
+### References
+Biggs, J 2013, _SOLO Taxonomy_. Retrieved 12 May 2020, <https://www.johnbiggs.com.au/academic/solo-taxonomy/>
+
+Biggs, J and Tang, Catherine 2011, _Teaching for Quality Learning at University_, 4th Edition.
+Open University Press, England.
+
+Mazur, E 2013, _Confessions of a Converted Lecturer_. Retrieved 2 May 2020,
+<https://www.youtube.com/watch?v=92O6NlOGt1o>.
+
+Fractus Learning 2017, _Bloom’s Taxonomy_. Retrieved 10 May 2020, 
+<http://www.fractuslearning.com/wp-content/uploads/2016/01/blooms-taxonomy-verbs.png>.
