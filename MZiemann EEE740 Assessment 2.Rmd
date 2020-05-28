@@ -16,9 +16,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1500 words or equivalent
 
+Part A is asking you to take a critically reflective holistic look at your teaching and approaches to
+student learning. In other words, draw on the content on reflective practice e.g. Kolb’s model from weeks 7
+and 8 to tell a story in which you critically reflect on your teaching practices and student learning. Details are
+below:
+
+* Draw on theories and frameworks of critical reflection to contextualize the reflection with respect to
+approaches to and levels of reflection.
+
+* Use e.g. Kolb’s model to frame the reflection in terms of planning, teaching and supporting learning including
+current practice, planned changes to current practice and anticipated outcomes.
+
 * Successful engagement across A1 (design, and plan earning activities) and A2 (teach and support learning). Clear concise comprehensive and criticallt compelling evidence of engagement across areas A1 and A2
 
-* Succesful engagement in appropriate teaching practices relates to areas of activity (A2) Clear, concise, comrehensive and critically compelling  evidence of successful engagement in appropriate teaching practices related to the areas of activity
+* Successful engagement in appropriate teaching practices relates to areas of activity (A2) Clear, concise, comrehensive and critically compelling  evidence of successful engagement in appropriate teaching practices related to the areas of activity
 
 * Appropriate knowledge of K1, the subject material, K2 the appropriate learning methods for teaching, learning and assessing in the subject area and at the level of the academic programme and K3, how students learn both generally and within their subject disciplinary areas. USe and value of appropriate learning technologies to support students in achiving learning outcomes. In depth detailed and critical knowledge of K1 K2 and K3. Use and value of learning technologis is clearly and convincingly explained with substantive reference to pedagogical research. There is a clear and convincing explanation of the way in which technologies can supportstudents in achieving learning outcomes
 
@@ -29,6 +40,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Part B - Evidence that demonstrates ongoing professional development in planning and teaching
 
 1000 words or equivalent
+
+Assessment 2, Part B is asking you to do something that you have never done before. You need to tell us about
+your professional development and provide artefacts – that is evidence e.g. courses that you might have taken
+– to evidence your professional development.
 
 Critically analyse ongoing professional development with respect to past experience, current
 engagement and future plans. You will also need to provide an appropriate range of evidence and
