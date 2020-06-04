@@ -16,16 +16,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1500 words or equivalent
 
-Part A is asking you to take a critically reflective holistic look at your teaching and approaches to
-student learning. In other words, draw on the content on reflective practice e.g. Kolb’s model from weeks 7
-and 8 to tell a story in which you critically reflect on your teaching practices and student learning. Details are
-below:
+Part A is asking you to take a critically reflective holistic look at your teaching and approaches to student learning. 
+In other words, draw on the content on reflective practice e.g. Kolb’s model from weeks 7 and 8 to tell a story in which you critically reflect on your teaching practices and student learning. 
+Details are below:
 
-* Draw on theories and frameworks of critical reflection to contextualize the reflection with respect to
-approaches to and levels of reflection.
+* Draw on theories and frameworks of critical reflection to contextualize the reflection with respect to approaches to and levels of reflection.
 
-* Use e.g. Kolb’s model to frame the reflection in terms of planning, teaching and supporting learning including
-current practice, planned changes to current practice and anticipated outcomes.
+* Use e.g. Kolb’s model to frame the reflection in terms of planning, teaching and supporting learning including current practice, planned changes to current practice and anticipated outcomes.
 
 * Successful engagement across A1 (design, and plan earning activities) and A2 (teach and support learning). Clear concise comprehensive and criticallt compelling evidence of engagement across areas A1 and A2
 
@@ -36,6 +33,73 @@ current practice, planned changes to current practice and anticipated outcomes.
 * A commitment to V1, respect individual learners and diverse learning communities and V2 promote participation in Higher Ed and equality of opportunity for learners, and V4 acknowledge the wider context in which higher ed operated recognising the implications for professional practise. Extensive, clear and critically compelling evidence of a commitment to V1, V2 and V4
 
 * Successful incorporation of subject and pedagogic research and/or scholarship within activities, as part of an integrate approach to academic practice. Extensive, clear and critically compelling evidence of the above.
+
+### Response chapter 1
+
+When I came into lecturing in 2018 from a career in research, it was about ten years after I had last done any teaching.
+Indeed, before I entered the research workforce I was finishing my Doctoral thesis and doing sessional laboratory demonstrating, occasional guest lectures and taught a new unit on computational biology to a cohort of 16 students. 
+This was around 2009.
+When I started at Deakin I _thought_ I was a reasonably good teacher. 
+I knew a lot about my topic and believed that my teaching experience was enough to manage my first teaching assignment which was a cloud unit (SLE762) which the students are mostly international.
+This unit was one of the first that was offered in online mode only by the School of Life and Environmental Sciences (LES).
+With _only three weeks_ preparation time for me until the start of the unit, I had to focus on curating the content for the 40 enrolled students.
+Obviously the expected learning outcomes and assessments were decided upon before my arrival by the course director, who had done a reasonable job. 
+Without the wisdom of the importance of active learning, I set upon a fairly bland teaching style that was heavy on content and light on feedback and interaction.
+Indeed I was guilty of trying to "cover" as many topics as possible right up until week 11. 
+I planned weekly online Q&A sessions on blackboard collaborate but there were few or no attendees most weeks, until a couple of weeks before major assessment deadlines when maybe 15 students would connect.
+There were other difficulties as well - such as lack of help from the digital learning team for AV support, lack of appropriate recording equipment/spaces, lack of video editing and inability to schedule online tutorials when all students were available.
+On the plus side, there was some good use of the discussion boards.
+Students were generally happy that I was responding to their queries by email and posting these anonymised questions on the discussion site.
+Survey feedback from students was generally positive, and most students performed well but there were a hard core that seemed not to "get it". 
+These students generally did not engage in the interactive sessions and this came back to hurt their results.
+There were a few students that had demonstrated only a superficial understanding of the topic, barely above what could be learned by performing internet searches of the topics at hand.
+In fact there were several that received cautions or worse, because of blatant copying of material from the internet.
+Since the learning materials were delivered by video and there were limited means of accessing feedback outside of the interactive sessions, students has little means to benchmark their knowledge and quality of work.
+There were no genuine opportunities for students to network with one another and this was reflected in the discussion board comments. The area for student discussion recorded just one or two comments, while the questions to the Unit Chair were over 50. 
+In addition, when discussing with a couple students a year later, once they had begun their major research project I asked about whether the unit had helped them; they responded that mostly no,  the unit did not help them.
+Upon asking why, I found that it was mostly because we had "covered" material too quickly and with too little discussion of the difficult concepts.
+There was just too much new information for these students to take onboard in such a limited time, and with too little reinforcement that the content itself could not be assimilated, let alone put into a form that could be useful to students beyond the immediate goal of passing the next assessment task. 
+Up until this time, I had the illusion that I was a good teacher, but with feedback like that it was dawning upon me that students were not getting a genuine education, just going through the motions.
+I will get back to what "genuine education" is a bit further down.
+
+While studying for EEE730 (Contextualising learning and teaching in Higher Education), I became familiar with the different theories of learning and began to identify in myself how I learn important knowledge and skills.
+I realised that my teaching style was severely contradictory to my own learning style.
+My teaching style seemed to be driven by the inertia of the moment; to focus on curating the content rather than reinforcing student understanding.
+In effect I had (perhaps unconsciously) developed a teaching style that mimicked the teacher centred style I experienced in my bachelor degree in engineering (2001-2005).
+While my learning style was centred around quiet reading, group problem solving and practise (self assessment), my teaching style was just content piled on more content.
+There were two very distinct points in time when my perspectives to teaching were transformed.
+First, when I watched for the first time the presentation "Confessions of a converted lecturer" (Mazur 2013).
+I realised what I was doing wrong - and I could identify strongly because Mazur had deceived himself that he was doing a good job for six years before he recognised that his teacher-centred style was stifling the development of a sizable fraction of students.
+Indeed, what he realised was that his students were quite good at solving textbook problems but when confronted with conceptual problems, scores were much poorer.
+When Mazur changed his teaching style from teacher-centred lectures focused on the "transfer of information", to student centred and interactive sessions he saw that a bigger fraction understand at a deeper level and retain the knowledge and skills much better.
+My second, and more recent transformative epiphany came with reading Biggs and Tang (2011 p16-31) which argues that students learn by _doing_ and teachers should be channeling most preparation effort and class time toward activities and assessment tasks that foster interactivity, deep thought and practice with feedback. 
+It seems obvious in hindsight, but aligns with lifelong learning; we don't develop lifelong high-value skills only by watching someone else do it, the students need to do it, practise it and be able to quantify their development.
+Another reason why this is important is because the university classroom these days is a much more diverse group than decades past, so there is a greater chance for students to have relative strengths and weaknesses.
+Without the opportunity to practise and seek feedback in a supportive environment, students with relatively lower starting ability will find it harder to improve.
+One thing that did go well in SLE762 was that when I asked students who completed the unit previously they said that their writing improved immensely throughout the three written assessment.
+Many students entering this master's degree course have indicated to me that their previous higher education was assesed nearly exclusively by examination (multiple choice and short answer), so it is a good sign that this unit has enabled ESL students to develop confidence in long-form writing in English.
+Although this is not something which is mentioned explicitly as an expected learning outcome, but perhaps it can be in future years.
+To make the most from this experience, I would like to follow through with some of the ideas which I suggested in a reflection piece in EEE730 which fit with the "Active Experimentation" part of Kolb's experiential learning cycle (which coincidentally is analagous to the scientific research cycle):
+
+* More opportunities for self assessment including online quizzes (K2,K4,K5).
+
+* Allocating students into small study groups for peer review and breaking down the preconception that students are not allowed to collaborate on assessment tasks (because students are wary of running into academic integrity problems) (K2,K3).
+
+* Providing students with exemplars of student work and discussing the good and bad points in class (K1).
+
+* Allowing students to undertake at least one of the assignments in groups (K2).
+
+* Relaxing the requirement for the final assignment format and allowing students to customise assessment task so long as it satisfactoriry demonstrates the expected learning objectives (K2,K3).
+
+In addition, based on my learnings in this unit I would suggest the following:
+
+* To cut down on the content and sharply focus on the troublesome ideas, or threshold concepts which link directly to the expected learning objectives which are strongly aligned with the assessment tasks (K1).
+
+* To enhance participation in the discussion sessions by aligning the activities therein towards feedback which helps students complete the assessment tasks (K2,K3). 
+
+Todo 
+
+Sadly though I might not be able to fulfil this because I am no longer lecturer for SLE762 and my duties have moved to other units.
 
 ## Part B - Evidence that demonstrates ongoing professional development in planning and teaching
 
