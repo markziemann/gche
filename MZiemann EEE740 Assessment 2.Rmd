@@ -161,20 +161,107 @@ foundation for evidencing your current professional development. Contextualize t
 evidence from the past and for the future e.g. a plan for professional development moving
 forwards.
 
-
 Evidence in engaging in continuing professional development in subjects/disciplines and their pedagogy incorporating research, scholarship and the evaluation of professional practices. 
 
 Provides an extensive and varied range of evidence and artefacts that demonstrate a strong and clear commitment to ongoing professional development, influence and success in planning and teaching practise
 
-### References
-Biggs, J 2013, _SOLO Taxonomy_. Retrieved 12 May 2020, <https://www.johnbiggs.com.au/academic/solo-taxonomy/>
+### Response chapter 2
 
-Biggs, J and Tang, C 2011, _Teaching for Quality Learning at University_, 4th Edition.
+I must admit I cringed a bit when reading this assessment question for the first time. 
+Like many academics, I enjoy research over teaching.
+To be honest, If I had the choice I wouldn't teach teach at all.
+It is however part and parcel of this occupation and an important duty. 
+So as with anything else in life, if it is worth doing, it must be done well.
+Indeed, in my own experience, I have found teaching more enjoyable if is designed, planned and executed well.
+For example, poorly designed assessments are likely to lead to student irritation, confusion and a deluge of emails and discussion queries which requires additional work on the part of the teacher to resolve.
+
+With regard to professional development, like to stay up to date with my content area (computational biology) by attending hands-on workshops and conferences. 
+These only have a minor influence on my teaching, but I have learned some useful tactics.
+For example, in a computer lab, participants are generally following some recipe and the instructor is describing some of the theory behind each step and why it's useful.
+It's sometimes quite complicated, so participants get stuck or left behind quite easily.
+The instructors give each student two post-it notes, green and red. 
+If the student gets stuck, they put up the red post-it, then the instructor or their assistants can attend to the question/problem and try to solve it.
+On the other hand, if the students have completed that part and are ready to move on to the next task, they put up the green post-it.
+This works well to regulate the tempo of the workshop; if the instructor sees a wave of red, they know they haven't explained something right.
+On the other hand if they see a mojority of green, they know that the majority of the class are "getting it" and they can focus on helping the few who havent put up the green post-it.
+At the end of the workshop, attendees are asked to provide some feedback; something they liked and something they didn't on the green and red post-its.
+This is a nice way to receive anonymous feedback, which can be used for future improvement.
+
+The next obvious thing to mention is the Graduate Certificate of Higher Education (Learning and Teaching).
+I have completed two units; EEE733 Scholarship of Teaching and Learning, and EEE730 Contextualising learning and teaching in Higher Education.
+Learnings from these units and from EEE740 especially has transformed my approach to teaching, and what an education really is.
+Mazur mentions in his seminar (2013) the famous quote: 
+
+> Education Is What Remains After You Have Forgotten Everything You Learned In School
+
+So we are likely to forget much of the content of this course over time, but we are likely to retain knowledge of the threshold concepts because these shape our attitutes and actions immediately.
+
+With regard to this I would suggest a few threshold concepts I've taken on board:
+
+1. Recognising the theory of learning that resonates with me the most, and asking others about theirs.
+
+2. Learning is more than information transfer - it is the assimilation of this information (declarative and procedural) and building links with existing knowledge that is the difficult part, but is necessary to build meaningful, high value skills.
+
+3. Active learning (doing, practise, discussion and apprenticeship) are more powerful than passive learning (listening) because it stimulates the mind, engages, reinforces and demands contemplation.
+
+From this unit I have also learned more about how technology can be useful for teaching.
+In EEE730 were were taught that technologies were not that important, it's the activity that is happening that is important.
+I tend to agree with this notion. 
+For example if the lecturer is polling students in a seminar, it doesn't really matter which polling tool they are using so long as it does the job.
+If students are peer reviewing work in breakout groups I don't mind whether they use Google Docs, MS Word, or specialised tools like Perusall (https://perusall.com/) or FeedbackFruits.
+In many cases simple is better.
+
+On the topic of technology, I have been having positive feedback from students in SLE712 Molecular Biology and Bioinformatics Techniques with the use of GitHub.
+GitHub.com is a website use by software developers to keep track of changes in a software program, but I'm finding it quite useful to host all my documents (learning materials, assignments and other resources).
+Students can ask questions and join a discussion with the "issues" feature.
+Students can create their own content on GitHub including software and documents.
+When students work in teams, each contribution is recorded, so the assessor can give grades based on the final product of the team, but also dig into see how intellectually important each team members contribution is.
+In SLE762 I am asking students to develop on their data analysis scripts/reports using GitHub and this accounts for one fifth of the grade.
+Indeed, the work I am writing today is developed using GitHub, so you will be able to see how the work has changed over time just by visiting the [public repository](https://github.com/markziemann/gche) and looking at the commit history.
+And this will be available on the internet for as long as GitHub exists or I decide to take it down.
+I am not the first to bring GitHub into the classroom, there are other examples of educators running their entire courses via GitHub (eg Bryan 2020).
+I look forward to investigating more applications of this tool in future, especially as it relates to fostering active learning.
+
+In terms of things I would like to work on personally, I would like to use what I have learned in EEE730 and EEE740 develop better large-group teaching skills.
+I was campus coordinator for SLE115 in T1, 2019 which involved 125 students and the teaching style employed in lectures was not very interactive. 
+I would like to learn more strategies and tactics in order to engage students in lectures by making it a more active experience.
+To address this, I could attend workshops designed for large group instruction, or to enquire with other lecturers about techniques that worked for them.
+In my school there currently is a unit chair in chemistry which has several hundred students, who I could ask for tactics, to attend one of their lectures, or even to become my teaching mentor.
+
+On the topic of mentoring, my current mentor is the course director of the Masters in Biotechnology course but I don't think we ever specifically discussed methods for active learning before in any detail, so there is something I can bring up in our next meeting.
+
+In trimester 2, I will be campus coordinator for a unit where the Unit Chair is based in Burwood. They have a bit focus on contructive alignment and active learning and I look forward to learning from them.
+
+In terms of Scholarship of Teaching and Learning, in EEE733 I focused on the issues around fairness in assessment and whether students and staff in LES liked the idea of blind marking. 
+I found that both staff and students thought blind marking improved fairness in assessment and both groups suppported a move towards blind marking (Ziemann, 2019).
+I raised the issue with DUSA, although the body has not yet made any additional actions on this topic (I think they may have more pressing matters in hand at the moment given the current COVID-19 pandemic situation).
+It would be good at some point to reactivate this project and seek greater student and staff survey input across more schools and faculties.
+On the other hand these activities are very time consuming and in my view at least these endeavours are not as important to the LES school (and my prospects for career advancement) as research papers and grants.
+I may be wrong.
+
+There are also many teaching workshops and conferences that one can attend, however I must be honest that I very rarely engage in these types of workshops.
+It looks as if I will be teaching in all three trimesters this year 2020 and as such there just won't be enough time to fit in all-day conferences and endless talkfests in addition to my research and other duties. 
+
+Last year I did however attend such a workshop (13th August 2019) hosted by Dr Madeleine Schultz on the topic of "Towards assessment of employability skills" (because Dr Schultz is a very respected teacher in LES). 
+I think some of the topic covered in that workshop are still part of my teaching, including designing assessments that are developing real world skills and aligned with the unit and course expected learning outcomes.
+
+On the 16th June, there is an upcoming SEBE Induction for new Unit Chairs and new teaching /lecturing staff via Zoom. Although it is designed for new staff, I think I could benefit by attending and learning a bit more about the newer features of cloudDeakin and some of the procedural/administration changes in recent times.
+
+I will finish with a bit of a summary about where I see myself in five years time.
+In five years, I anticipate that I will still be teaching.
+Whereas my first two years at Deakin involved teaching four different units, I hope that in five years time I will be dedicated to the continued development and refinement of just one or two units.
+I look forward to developing better skills around building classroom environments that enable free dialogue and student interaction, especially in larger groups.
+
+### References
+Biggs, J and Tang, C 2011, _Teaching for Quality Learning at Universit_, 4th Edition.
 Open University Press, England.
+
+Bryan, J 2020, _Happy Git and GitHub for the useR_, Ebook, Retrieved 7th June 2020, <https://happygitwithr.com/>.
+
+Fiksel J, Jager LR, Hardin, JS & Taub MA (2019) Using GitHub Classroom To Teach Statistics, Journal of Statistics Education, 27:2, 110-119, DOI: 10.1080/10691898.2019.1617089.
 
 Mazur, E 1996, _Peer Instruction: A User's Manual_,  Benjamin Cummings Publishing, San Francisco, CA.
 
 Mazur, E 2013, _Confessions of a Converted Lecturer_. Retrieved 2 May 2020, <https://www.youtube.com/watch?v=92O6NlOGt1o>.
 
-Fractus Learning 2017, _Bloom’s Taxonomy_. Retrieved 10 May 2020, 
-<http://www.fractuslearning.com/wp-content/uploads/2016/01/blooms-taxonomy-verbs.png>.
+Ziemann, M (2019) Student and staff perceptions of fairness in assessment and feedback practices. Retrieved 7th June 2020, <https://doi.org/10.5281/zenodo.3460061>.
