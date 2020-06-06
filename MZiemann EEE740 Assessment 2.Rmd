@@ -18,17 +18,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Part A is asking you to take a critically reflective holistic look at your teaching and approaches to student learning. 
 In other words, draw on the content on reflective practice e.g. Kolb’s model from weeks 7 and 8 to tell a story in which you critically reflect on your teaching practices and student learning. 
-Details are below:
+Details are below: DONE
 
-* Draw on theories and frameworks of critical reflection to contextualize the reflection with respect to approaches to and levels of reflection.
+* Draw on theories and frameworks of critical reflection to contextualize the reflection with respect to approaches to and levels of reflection. DONE
 
-* Use e.g. Kolb’s model to frame the reflection in terms of planning, teaching and supporting learning including current practice, planned changes to current practice and anticipated outcomes.
+* Use e.g. Kolb’s model to frame the reflection in terms of planning, teaching and supporting learning including current practice, planned changes to current practice and anticipated outcomes. DONE
 
-* Successful engagement across A1 (design, and plan earning activities) and A2 (teach and support learning). Clear concise comprehensive and criticallt compelling evidence of engagement across areas A1 and A2
+* Successful engagement across A1 (design, and plan learning activities) and A2 (teach and support learning). Clear concise comprehensive and critically compelling evidence of engagement across areas A1 and A2. DONE
 
-* Successful engagement in appropriate teaching practices relates to areas of activity (A2) Clear, concise, comrehensive and critically compelling  evidence of successful engagement in appropriate teaching practices related to the areas of activity
+* Successful engagement in appropriate teaching practices relates to areas of activity (A2) Clear, concise, comrehensive and critically compelling  evidence of successful engagement in appropriate teaching practices related to the areas of activity DONE
 
-* Appropriate knowledge of K1, the subject material, K2 the appropriate learning methods for teaching, learning and assessing in the subject area and at the level of the academic programme and K3, how students learn both generally and within their subject disciplinary areas. USe and value of appropriate learning technologies to support students in achiving learning outcomes. In depth detailed and critical knowledge of K1 K2 and K3. Use and value of learning technologis is clearly and convincingly explained with substantive reference to pedagogical research. There is a clear and convincing explanation of the way in which technologies can supportstudents in achieving learning outcomes
+* Appropriate knowledge of K1, the subject material, K2 the appropriate learning methods for teaching, learning and assessing in the subject area and at the level of the academic programme and K3, how students learn both generally and within their subject disciplinary areas. USe and value of appropriate learning technologies to support students in achiving learning outcomes. In depth detailed and critical knowledge of K1 K2 and K3. Use and value of learning technologis is clearly and convincingly explained with substantive reference to pedagogical research. There is a clear and convincing explanation of the way in which technologies can supportstudents in achieving learning outcomes DONE
 
 * A commitment to V1, respect individual learners and diverse learning communities and V2 promote participation in Higher Ed and equality of opportunity for learners, and V4 acknowledge the wider context in which higher ed operated recognising the implications for professional practise. Extensive, clear and critically compelling evidence of a commitment to V1, V2 and V4
 
@@ -42,50 +42,58 @@ This was around 2009.
 When I started at Deakin I _thought_ I was a reasonably good teacher. 
 I knew a lot about my topic and believed that my teaching experience was enough to manage my first teaching assignment which was a cloud unit (SLE762) which the students are mostly international.
 This unit was one of the first that was offered in online mode only by the School of Life and Environmental Sciences (LES).
-With _only three weeks_ preparation time for me until the start of the unit, I had to focus on curating the content for the 40 enrolled students.
-Obviously the expected learning outcomes and assessments were decided upon before my arrival by the course director, who had done a reasonable job. 
+With _only three weeks_ preparation time for me until the start of the unit in T2 2018, I had to focus on curating the content and designing assesment tasks for the 40 enrolled students.
+Obviously the expected learning outcomes were decided upon before my arrival by the course director, who had done a reasonable job putting together a unit guide with satisfactory learning outcomes (2019 unit guide is attached as an appendix). 
+
 Without the wisdom of the importance of active learning, I set upon a fairly bland teaching style that was heavy on content and light on feedback and interaction.
 Indeed I was guilty of trying to "cover" as many topics as possible right up until week 11. 
 I planned weekly online Q&A sessions on blackboard collaborate but there were few or no attendees most weeks, until a couple of weeks before major assessment deadlines when maybe 15 students would connect.
 There were other difficulties as well - such as lack of help from the digital learning team for AV support, lack of appropriate recording equipment/spaces, lack of video editing and inability to schedule online tutorials when all students were available.
 On the plus side, there was some good use of the discussion boards.
 Students were generally happy that I was responding to their queries by email and posting these anonymised questions on the discussion site.
+
 Survey feedback from students was generally positive, and most students performed well but there were a hard core that seemed not to "get it". 
 These students generally did not engage in the interactive sessions and this came back to hurt their results.
 There were a few students that had demonstrated only a superficial understanding of the topic, barely above what could be learned by performing internet searches of the topics at hand.
 In fact there were several that received cautions or worse, because of blatant copying of material from the internet.
 Since the learning materials were delivered by video and there were limited means of accessing feedback outside of the interactive sessions, students has little means to benchmark their knowledge and quality of work.
 There were no genuine opportunities for students to network with one another and this was reflected in the discussion board comments. The area for student discussion recorded just one or two comments, while the questions to the Unit Chair were over 50. 
-In addition, when discussing with a couple students a year later, once they had begun their major research project I asked about whether the unit had helped them; they responded that mostly no,  the unit did not help them.
+In addition, when discussing with a couple students a year later, once they had begun their major research project I asked about whether the unit had helped them; they responded that mostly no, the unit did not help them.
 Upon asking why, I found that it was mostly because we had "covered" material too quickly and with too little discussion of the difficult concepts.
 There was just too much new information for these students to take onboard in such a limited time, and with too little reinforcement that the content itself could not be assimilated, let alone put into a form that could be useful to students beyond the immediate goal of passing the next assessment task. 
 Up until this time, I had the illusion that I was a good teacher, but with feedback like that it was dawning upon me that students were not getting a genuine education, just going through the motions.
 I will get back to what "genuine education" is a bit further down.
 
-While studying for EEE730 (Contextualising learning and teaching in Higher Education), I became familiar with the different theories of learning and began to identify in myself how I learn important knowledge and skills.
-I realised that my teaching style was severely contradictory to my own learning style.
+While studying for EEE730 (Contextualising learning and teaching in Higher Education), I became familiar with the different theories of learning and began to identify in myself how I learn important knowledge and skills. 
+I relate most to Constructivism, Social Learning Theory, Feminism and Humanism.
+I realised that my teaching style was severely contradictory to my own learning style .
 My teaching style seemed to be driven by the inertia of the moment; to focus on curating the content rather than reinforcing student understanding.
 In effect I had (perhaps unconsciously) developed a teaching style that mimicked the teacher centred style I experienced in my bachelor degree in engineering (2001-2005).
-While my learning style was centred around quiet reading, group problem solving and practise (self assessment), my teaching style was just content piled on more content.
+While my learning style was centred around quiet reading/contemplation, group problem solving and practise (self assessment), my teaching style was just content piled on more content.
+
 There were two very distinct points in time when my perspectives to teaching were transformed.
-First, when I watched for the first time the presentation "Confessions of a converted lecturer" (Mazur 2013).
-I realised what I was doing wrong - and I could identify strongly because Mazur had deceived himself that he was doing a good job for six years before he recognised that his teacher-centred style was stifling the development of a sizable fraction of students.
+First, when studying for EEE730 I watched for the first time the presentation "Confessions of a converted lecturer" by Professor Eric Mazur (2013).
+I realised profoundly what I was doing wrong - and I could identify strongly because Mazur had deceived himself that he was doing a good job for six years before he recognised that his teacher-centred style was stifling the development of a sizable fraction of students.
 Indeed, what he realised was that his students were quite good at solving textbook problems but when confronted with conceptual problems, scores were much poorer.
-When Mazur changed his teaching style from teacher-centred lectures focused on the "transfer of information", to student centred and interactive sessions he saw that a bigger fraction understand at a deeper level and retain the knowledge and skills much better.
-My second, and more recent transformative epiphany came with reading Biggs and Tang (2011 p16-31) which argues that students learn by _doing_ and teachers should be channeling most preparation effort and class time toward activities and assessment tasks that foster interactivity, deep thought and practice with feedback. 
+When Mazur changed his teaching style from teacher-centred lectures focused on the "transfer of information", to student centred and interactive sessions he saw that a bigger fraction could understand at a deeper level and retain the knowledge and skills much better.
+
+My second, and more recent transformative epiphany came with reading Biggs and Tang (2011 p16-31) which argues that students learn by _doing_ and the teachers role should be more of a facilitator; enabling activities and assessment tasks that foster interactivity, deep thought and practice with feedback. 
 It seems obvious in hindsight, but aligns with lifelong learning; we don't develop lifelong high-value skills only by watching someone else do it, the students need to do it, practise it and be able to quantify their development.
 Another reason why this is important is because the university classroom these days is a much more diverse group than decades past, so there is a greater chance for students to have relative strengths and weaknesses.
 Without the opportunity to practise and seek feedback in a supportive environment, students with relatively lower starting ability will find it harder to improve.
+
+Both events speak to necessary changes in the the education design for the unit. By first recognising the desirable pedagogical philosophy (Social Constructivism), then putting in place a pedagogical strategy and practices which enables learning through preparation/completion of assessment tasks and participation in learning activities. 
+
 One thing that did go well in SLE762 was that when I asked students who completed the unit previously they said that their writing improved immensely throughout the three written assessment.
 Many students entering this master's degree course have indicated to me that their previous higher education was assesed nearly exclusively by examination (multiple choice and short answer), so it is a good sign that this unit has enabled ESL students to develop confidence in long-form writing in English.
 Although this is not something which is mentioned explicitly as an expected learning outcome, but perhaps it can be in future years.
 To make the most from this experience, I would like to follow through with some of the ideas which I suggested in a reflection piece in EEE730 which fit with the "Active Experimentation" part of Kolb's experiential learning cycle (which coincidentally is analagous to the scientific research cycle):
 
-* More opportunities for self assessment including online quizzes (K2,K4,K5).
+* More opportunities for self assessment including online quizzes (K2,K4,K5). The formative assessment was good, however it required a lot of effort from the teaching team to deliver this feedback. Smaller miniquizzes could be a rapid way to test student understanding of key concepts.  
 
 * Allocating students into small study groups for peer review and breaking down the preconception that students are not allowed to collaborate on assessment tasks (because students are wary of running into academic integrity problems) (K2,K3).
 
-* Providing students with exemplars of student work and discussing the good and bad points in class (K1).
+* Providing students with exemplars of student work and discussing the good and bad points in class and perhaps in breakout groups (K1).
 
 * Allowing students to undertake at least one of the assignments in groups (K2).
 
@@ -93,13 +101,42 @@ To make the most from this experience, I would like to follow through with some 
 
 In addition, based on my learnings in this unit I would suggest the following:
 
-* To cut down on the content and sharply focus on the troublesome ideas, or threshold concepts which link directly to the expected learning objectives which are strongly aligned with the assessment tasks (K1).
+* To cut down on the content covered in lecturer and sharply focus on the troublesome ideas, or threshold concepts which link directly to the expected learning objectives which are strongly aligned with the assessment tasks (K1).
+The lecturer can prescribe the reading and then this could be the focus of Q&A in the interactive classes.
 
-* To enhance participation in the discussion sessions by aligning the activities therein towards feedback which helps students complete the assessment tasks (K2,K3). 
+* A reduction in the amount of content should involve cutting the number of expected learning outcomes from six to three or four.
 
-Todo 
+* To enhance participation in the discussion sessions by including activities that provide feedback which helps students complete the assessment tasks (K2,K3). For example, students discussing draft work in breakout groups.
 
-Sadly though I might not be able to fulfil this because I am no longer lecturer for SLE762 and my duties have moved to other units.
+Upon reflection there were also parts of the unit that were successful and worth noting here:
+
+* The assessments were on the most part directly relevant to the expected learning objectives of the unit, although there could always be improvement.
+
+* Assessments were about the right difficulty. In terms of the SOLO or Bloom's taxonomy, the first assessment was a bit easy, and the solutions to the short answer questions and miniessys were obtainable from careful examination of the lecture material and application of the concepts, which I think was appropriate because this is likely to be their first Deakin Assignment and possibly the first one completed in English. 
+On the other hand assessments two and three were focused on higher level thought processes such as application of concepts, evaluation of scholarly material, and creation of presentations and essays to argue for or against changes in the way processes around scholarly publishing.
+
+* Student support was just about at the right level. As unit chair I facilitated opt-in online tutorials, discussion boards and email.
+I also put together on campus opt-in drop in sessions (Burwood & Geelong) at key dates in the calendar before assessment deadlines which were very useful. The one aspect that could have been done better was to foster a stronger network of peer support among students.
+
+* As written assessment makes up 90% of the marks, students steadily improved the quality of their written work, in terms of language but also presentation and use of references.
+This has to do with students taking onboard the feedback provided to them from the formative and summative assignments, as well as the effect of practice.
+
+* The oral presentation, worth 10% of the marks was a success in that it appeared that students really put in a good effort.
+I've noticed in my previous teaching that students perform at a higher level when they present in front of their peers. 
+In this format the lecturer can see clearly the level of understanding a student has on the topic.
+Students working in teams to complete this component could be a good way to reinforce this.
+
+* Students adapted quickly to use of technology in this unit, and there is room to experiment with further tools to facilitate peer instruction and interaction.
+I didn't previously use polling technology, but the work of Mazur (2013) suggests this could be a powerful way to use technology in the virtual classroom for students to benchmark themselves.
+Used together with breakout groups this would be a great way to activate student interaction (Mazur 1996).
+BlackBoard Collaborate and Zoom have features to enable polling and breakout groups.
+
+Unfortunately I'm not able to enact this experimentation myself because I am no longer lecturer for SLE762 and my duties have moved to other units. I am in touch regularly with the current lecturer for SLE762 and will be sure to share this piece with them.
+
+If these measures were implemented, I would be looking to find evidence that they are working. 
+In order to assess whether these changes to learning activities and peer support improved student understanding, I would be observing an increase in student performance and understanding in the interactive blackboard collaborate sessions, as well as better attendance and overall engagement. 
+Next, directly comparing the quality of submitted work, specifically for depth of understanding between years (eg 2020 versus 2019 assignment).
+Also hoping that student evaluations would reflect on the value of active learning and greater social interaction on the quality of learning.
 
 ## Part B - Evidence that demonstrates ongoing professional development in planning and teaching
 
@@ -132,11 +169,12 @@ Provides an extensive and varied range of evidence and artefacts that demonstrat
 ### References
 Biggs, J 2013, _SOLO Taxonomy_. Retrieved 12 May 2020, <https://www.johnbiggs.com.au/academic/solo-taxonomy/>
 
-Biggs, J and Tang, Catherine 2011, _Teaching for Quality Learning at University_, 4th Edition.
+Biggs, J and Tang, C 2011, _Teaching for Quality Learning at University_, 4th Edition.
 Open University Press, England.
 
-Mazur, E 2013, _Confessions of a Converted Lecturer_. Retrieved 2 May 2020,
-<https://www.youtube.com/watch?v=92O6NlOGt1o>.
+Mazur, E 1996, _Peer Instruction: A User's Manual_,  Benjamin Cummings Publishing, San Francisco, CA.
+
+Mazur, E 2013, _Confessions of a Converted Lecturer_. Retrieved 2 May 2020, <https://www.youtube.com/watch?v=92O6NlOGt1o>.
 
 Fractus Learning 2017, _Bloom’s Taxonomy_. Retrieved 10 May 2020, 
 <http://www.fractuslearning.com/wp-content/uploads/2016/01/blooms-taxonomy-verbs.png>.
