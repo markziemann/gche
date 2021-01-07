@@ -1,0 +1,232 @@
+---
+title: "EEE732 Assessment Task 1 - Research Reflection"
+author: "Mark Ziemann"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: readable
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abbreviations
+
+PS: principal supervisor
+
+AS: associate supervisor
+
+ES: external supervisor
+
+ST: supervisory team
+
+## Candidate perspectives of supervisory practices
+
+In the three interviews I conducted with doctoral candidates (Ben=early,Liz=mid, Sam=late), I gathered a variety of supervisory practices that support candidature progress which I will outline here. Questions used in the interview and synopsis of responses are provided in the Appendix.
+
+The three candidates were recruited to their projects after successfully completing an Honours project in the same group and very similar topic. 
+All three had a ST that consisted of a PS and AS, they also had access to ES and other individuals and metors to which they could access additional expertise.
+All three candidates reported very high level of support from their respective ST, both for completing the research work, but in career development.
+This was particularly important because all candidates' research was severely impacted by COVID-19 in 2020.
+In addition, all indicated that they were very comfortable with contacting their PS and AS when they ran into issues both large and small.
+All three had mentioned that they discussed the student and supervisor expectations early in the development of the project. 
+This related to what workload is expected and what needs to be completed at each milestone.
+All candidates reported that they felt high level of support from the ST to develop research skills including data analysis and scholarly writing.
+All of the candidates has regular meetings with their PS, either weekly or biweekly.
+The role of the AS was more variable.
+For one, the AS was involved in weekly meetings about lower level tasks like ordering or experimental troubleshooting.
+For the other two the AS was only involved peripherally and had meetings irregularly.
+One of the candidates mentioned the effective use of appenticeship techniques for training for laboratory techniques.
+
+When asked about weak points in the ST, all candidates reported some level of technical debt in the current group.
+This means that the project direction gets to the edge of the sphere of expertise of the ST and that some additional expertise is needed to keep progress moving.
+Sam reported that the additional AS was recruited to help with data analysis but this should have been done much earlier on.
+
+## Candidate perspectives of supervisory practices
+
+
+## Critical analysis of supervisory practices
+
+This project is fairly typical. 
+Projects are sketched out to fill out three years with experiments, which leaves little time in case things do not work out as planned.
+It is naive to assume that experiments will work first time, and typically take twice as much time and effort as originally forecast.
+On top of this, the arrival of a new child and the pandemic resulted is delays to the project and additional sources of stress to the candidate.
+These culminated to the project completion falling behind schedule and beginning to put strain on the candidate.
+Some of the last experiments forecast to be completed were also cancelled due to the delays, which is also typical in my experience.
+It is important for the ST to draw a line where things can be completed in reasonable time and which are "aspirational".
+This is for the benefit of the student - nobody wants to spend 5 or more years on a PhD project, especially when the scholarship funds have come to an end.
+
+One of the key points to take from this interview was that it is nearly impossible for a student to keep progress going when the work is outside the realm of expertise of the ST.
+The relevant expertise needs to be brought into the ST as soon as those experiments are conceived and definitely before the research design is finalised.
+It is hard to forecast how things will proceed 3 years ahead of time, but when the work is outside the realm of the ST expertise, big errors can be made in over- or under-estimating how much time and work are involved.
+These types of planning mistakes can lead to the candidate experiencing a great deal of stress toward the end of the project.
+
+Some research groups have a "welcome pack" of documentation about how to solve common issues and I think this is a good approach for onboarding new staff.[1,2]
+
+## References
+
+1. https://www.sciencemag.org/careers/2019/08/why-some-professors-welcome-new-lab-members-clear-expectations-writing
+
+2. https://www.nature.com/articles/d41586-018-06167-w 
+
+## Appendix 1 - Questions for HDR interview
+
+1. Can you tell me a bit about yourself, your project and how you became involved in it?
+
+2. What is the goal of your research project?
+
+3. At what point are you in your candidature?
+
+4. Do you think you are on track with completing at the expected time?
+
+5. How do you think you are managing study-life balance, the demands of the course and financial 
+
+6. What is the makeup of your supervision team?
+
+7. How do you catch up with your supervisor? Is it a weekly meeting or something else?
+
+8. Do you have a network of colleagues and mentors outside of the supervision team to draw upon?
+
+9. Were you involved in the development and design of the project early on?
+
+10. Do you feel as if you have ownership of the direction of the project?
+
+11. Do you think you were given enough support to develop your research skills during the project?
+
+12. Were the supervisory team helpful over the different phases of the candidature?
+
+13. Do you think your supervision team supports you professionally, that is helping to develop your skills and knowledge and professional development that’s not directly related to this research project? 
+
+14. Does your supervisory team support your professional profile by attending conferences, building new and diverse work experience and professional networking?
+
+15. Do you know the learning outcomes for your project? Do you discuss them with your supervisor?
+
+16. Is there any particular weak point in your supervision team support that should be improved?
+
+17. Do you feel adequately supported by the School/Faculty/University and are there any aspects that need to be improved?
+
+
+## Appendix 2 interview synopses
+
+### Early-stage student
+
+Here I will provide a summary of the candidate's responses (5th Jan 2021). I have changed their name to "Ben".
+
+The doctoral project emerged from a previous Honours project, which was successful and developed into a larger body of work.
+The project is based in the School of Medicine at Geelong Waurn Ponds and involves human sampling, laboratory work, data analysis and scientific writing.
+The project in in early stages as Ben has just passed the confirmation of candidature in late 2020.
+Ben is confident that they are on track with the schedule despite difficulties caused by COVID-19 in 2020.
+Ben is not on a scholarship but has a relatively stable part time job which provides financial stability.
+Principal supervisor (PS) is a Professor in the School of Medicine, but the project is not directly in the field that they are renowned for.
+There is an associate supervisor (AS) who is a lecturer in the School of Life and Environmental Sciences.
+There is an external supervisor (ES) medical clinician who brings knowledge specifically relevant to the research topic.
+Ben reports that he is supported by colleagues and mentors outside the supervisory team (ST) who help him in a day-to-day basis, as well as for career development.
+Ben developed the design and direction of the project together with PS in a collaborative way, but feels like he has some amount of autonomy. 
+Ben has weekly meetings with AS, while they meet with PS and AS biweekly.
+The biweekly meeting is to discuss high level topics like overall project direction and results, while the weekly meeting is to cover low level topics like how to troubleshoot lab problems or to perform admin tasks like ordering.
+Ben also indicated that the lines of communication between himself and ST were open and healthy.
+Ben reports excellent support for his professional development from the ST.
+When asked, he knew that the doctoral program had learning outcomes, but didn't know them off the top of his head.
+Ben couldn't immediately say that there were any weak points in his ST, but did note that he feels that the ST lacks medical/clinical knowledge of the field he is working in, which could impact his progress at some point.
+There are medical/clinical individuals who provide expertise in an informal way, and these could be brought in as ES at some point.
+When asked about support from the School, Faculty and University, Ben noted that support was overall good but sometimes the communication would break down due to the many levels of organisation at Deakin.
+He noted that there was confusion about whether his research (collecting human biosamples) could continue during the COVID-19 period in 2020.
+
+### Mid-stage student
+
+Here I will provide a summary of the candidate's responses (5th Jan 2021). I have changed their name to "Liz".
+
+The doctoral project is a continuation of a previous successful Honours project.
+The project is based in the School of Life and Environmental Sciences at Geelong Waurn Ponds and involves genomic analysis of plant pathogens.
+Liz indicated that she was about half way through her project timeline, but was running a bit behind schedule.
+She was planning 2020 to be busy with lab work but COVID-19 severely impacted what she could do.
+She has applied for a 6 month extension to her project and is confident that the new deadline is achievable.
+Study-life balance has been difficult, but PS made it clear that she should treat it more like a job with 30-40 hours contributed per week.
+Liz reported that her relationship with PS was very constructive and that she felt able to get in touch with them whenever she needed.
+This was not just matters related to the research project but also personal or career development issues.
+For example, Liz was able to discuss her elevated anxiety issues with the supervisor openly and discuss support services and ways to manage anxiety.
+PS is a post-doctoral researcher based at Waurn Ponds and AS is a senior lecturer at Deakin Burwood.
+Liz has two informal advisors which are important for the day to day running of laboratory experiments.
+Liz meets with PS weekly about her research project and also attends weekly meetings with the informal advisors about laboratory matters.
+At the start of the project when they were drawing up the direction of the project, they would meet as a larger group but that was not seen as necessary once Liz was "up-and-running" with the research project.
+Liz indicated that she has doctoral colleagues who provide support to her, but she doesn't have an external mentor with whom she can discuss career development with.
+Liz worked with the ST to develop the project design and direction, but the ST were essential for indicating what was and wasn't feasible to achieve in a doctoral project.
+Likewise, she indicated she has a good deal of autonomy and feels like she has ownership of the project.
+Despite this autonomy, she feels comfortable to regularly contact the ST members about issues she is having, for example how to run certain data analysis software.
+Liz notes that PS was highly supportive in training.
+Liz mentioned she was trained in lab work with the following technique:
+
+1. Manager does, trainee watches.
+
+2. Trainee does, manager watches.
+
+3. Trainee does alone, reports any issues.
+
+Liz mentions that she has been well supported to develop a well-rounded palatte of research skills, but noted that she lacked certain skills in bioinformatics analysis and that it would be useful to have additional resource available to students because she felt as if she was over-using the supervisor to troubleshoot these technical issues.
+Liz mentions good support for career development including presenting at conferences, networking and developing diverse work experience such as teaching.
+Liz discussed the learning outcomes early with PS, but couldn't recall them exactly.
+She did note that during the early development of the project, PS outlined clearly the expectations but they weren't written into a document.
+She did mention however that the expectations of both student and supervisor was an ongoing conversation.
+When asked about weaknesses in the ST or things that could have been done better, Liz mentions that ST recommended her get a female mentor to assist with career development beyond the immediate project.
+She also indicated that there was some periods early on where her work wasn't that effective and she lost time because she wasn't properly focused.
+She notes that she could have been more organised and "switched-on". 
+She blames herself mostly for that (but some blame needs to be leveled at the ST too).
+She notes that administative tasks are difficult because it's not easy to find the information or find someone to discuss issues with.
+Changing admin processes caused some headaches, particularly around how to order materials for laboratory work.
+Liz noted that there is good support for students in terms of mental health and medical facilities.
+
+### Late-stage student
+
+Here I will provide a summary of the candidate's responses (4th Jan 2021). I have changed their name to "Sam".
+
+The Doctoral project emerged as a progression of an Honours project. 
+The project is based at Geelong Waurn Ponds in the School of Life and Environmental Sciences.
+The project is focused on studying the interaction between a plant pathogen called phytophthora and susceptible plant species like Lupin.
+The goal of the project is to work out how the pathogen progresses through different stages of the disease and understand which genes are involved in the switch between these stages.
+
+Sam has a scholarship to complete the work, but  and is in the 4th year of the project.
+Sam's project is running behind schedule for a few different reasons such as having a newborn child as well as the COVID-19 pandemic related restrictions impacting laboratory activities in 2020.
+Due to these impacts, some of the planned work has been pared back so that project can be completed at the end of year 4.
+From the tone of the responses, Sam appeared to be under a bit of stress in terms of completing the project in the current environment, and mentioned the support from  the spouse which was essential. 
+PS is an experienced and hands on senior lecturer.
+Early on, there was a postdoc as AS but they left after a year.
+Then another professor came on board as ES, but they are more hands-off.
+Recently, a new AS came on board to advise with some of the more recent genomics experiments.
+Outside the ST, Sam mentioned that the support from colleagues and other members of the group was satisfactory.
+
+When I asked about who was driving decisions around the design of the experiments and direction of the project, Sam mentioned that these decisions were made in a constructive way in discussion with PS in a type of committee approach. 
+Clearly the previous Honours project helped Sam to understand the direction of the project, and has some amount of autonomy.
+During the early phases of the project which were pre-COVID, Sam would make regular short chats with PS two to four times per week, dropping in at the office.
+During COVID period, meeting with PS became weekly or biweekly 60-minute tele-meetings.
+
+Sam indicated that overall they were satisfied with the resources available for them to develop the research skills outside the laboratory including writing and data analysis.
+They indicated that the ST have been very supportive in most aspects, but one of the last parts of the research project involve some complicated genomics analysis and although a new advisor was brought into the panel recently, it was probably too late.
+It would have been better to bring in this advisor much earlier in the project.
+Sam is getting toward the writing phase of the project now and that PS has been very supportive throughout all phases of the project.
+The ST is supportive of the candidate doing other professional development activities including networking, conferences, teaching, etc.
+Sam was aware of the learnining outcomes of the program but didn't know them off the top of the head.
+
+When asked about whether there are any weak points in the ST, Sam refers to how the genomics advisor was recruited too late.
+Sam then opened up about things that could've been better managed.
+For example certain key things could have been completed earlier, like experimental design.
+When asked about support from the School/Faculty/Uni the candidate indicated they were happy with the level support, but did have some headaches with administration.
+For example, information about policies and procedures about laboratory work was fragmented and hard at the level of school/faculty and to find.
+Candidate did not have any documentation from the ST about how to manage the project, these were discussed informally.
+
+## Appendix 3 - Questions for HDR supervisor
+
+1. Do you have strategies to recruit PhD candidates?
+
+2. Give me a rundown as to your approach to HDR supervision and pedagogy
+
+3. How do you support candidates throughout the different phases of a PhD?
+
+4. How do you manage relationships with candidates to support successful progression?
+
+5. How do you avoid and manage challenges and crises in your supervisory work?
+
+6. What are your strategies for managing supervision in a panel?
+
+7. Refer to the responses from Sam about his experience as HDR candidate. Is there anything that you would have done differently as a supervisor to help Sam progress through the program.
