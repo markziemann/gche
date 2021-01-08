@@ -8,6 +8,8 @@ output:
     toc: true
 ---
 
+Source: https://github.com/markziemann/gche
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -22,9 +24,12 @@ ES: external supervisor
 
 ST: supervisory team
 
-## Candidate perspectives of supervisory practices
+## Summary of candidate perspectives of supervisory practices
 
-In the three interviews I conducted with doctoral candidates (Ben=early,Liz=mid, Sam=late), I gathered a variety of supervisory practices that support candidature progress which I will outline here. Questions used in the interview and synopsis of responses are provided in the Appendix.
+354 words.
+
+In the three interviews I conducted with doctoral candidates (Ben=early,Liz=mid, Sam=late), I gathered a variety of supervisory practices that support candidature progress which I will outline here. 
+Questions used in the interview and synopsis of responses are provided in the Appendix.
 
 The three candidates were recruited to their projects after successfully completing an Honours project in the same group and very similar topic. 
 All three had a ST that consisted of a PS and AS, they also had access to ES and other individuals and metors to which they could access additional expertise.
@@ -38,38 +43,122 @@ All of the candidates has regular meetings with their PS, either weekly or biwee
 The role of the AS was more variable.
 For one, the AS was involved in weekly meetings about lower level tasks like ordering or experimental troubleshooting.
 For the other two the AS was only involved peripherally and had meetings irregularly.
-One of the candidates mentioned the effective use of appenticeship techniques for training for laboratory techniques.
+One of the candidates mentioned the effective use of apprenticeship techniques for training for laboratory techniques.
 
 When asked about weak points in the ST, all candidates reported some level of technical debt in the current group.
 This means that the project direction gets to the edge of the sphere of expertise of the ST and that some additional expertise is needed to keep progress moving.
 Sam reported that the additional AS was recruited to help with data analysis but this should have been done much earlier on.
 
-## Candidate perspectives of supervisory practices
+## Supervisor perspectives of supervisory practices
 
+600 words.
+
+I showed Meg (a current HDR supervisor) the synopsis of Sam's responses and sought their feedback on supervisory practices.
+Questions used in the interview and synopsis of responses are provided in the Appendix.
+
+Meg mentioned the importance of the planning period BEFORE the official start date. 
+She mentions that the planning is completed way before the candidate enters the lab, in fact the planning is done months or years before, at the point when the grant is proposed (the same time the animal ethics applications are written up).
+To enhance progress in the first stages of the project, the candidate should have been given a copy of the lab's manual to study before the start date.
+This sort of documentation is becoming more common (Aly 2018; Langin 2019).
+This way the candidate is aware of the expectations of the group and understands the way the group operates, including the common lab techniques and administrative tasks.
+These points and more are described in books aimed at PhD supervisors (Kearns 2018) and leaders more generally (Brown 2018) which Sam and Liz's supervisors could benefit from.
+
+Another reason for pre-planning is, that the candidate is dealing with a completely new environment, workplace on the start date so much of the planning could go over their heads.
+She says that the student needs to be guided very closely in the early phases of the project as it is completely new to them, so the supervisor will play a big part in planning the work at least in the first 50% of the program.
+The supervisor will also provide key advice to avoid common pitfalls in these research experiments, for example by insisting certain controls experiments are performed.
+
+Running out of time is a common predicament. 
+It leaves the candidate without the financial support of a scholarship, and the university is keen for them to finish due to government financial support running out.
+
+In terms of Sam's situation, yes the AS was brought in too late, but if Sam want's to complete the work himself he will still struggle to get it done in time.
+Ideally if Sam's project was conceived to include genomics analysis, the AS should have been recruited at the start of the project at the planning phase.
+In Sam's current situation. Meg suggests recruiting a collaborator or even service provider to get the genomics analysis done ASAP, so Sam can focus on the interpretation and write up of the results.
+Sam may not gain expertise in bioinformatics analysis, which is unfortunate, but the lack of time is more important right now.
+
+Meg mentions the benefits of having a large professional network are that if the project takes a new direction, there are acquaintances she can discuss with and potentially bring them in as collaborators to complete an experiment or advisers so that the candidate can do it themself.
+
+In terms of assistance that can be given to final-stage students like Sam, Meg mentioned supervisory strategies to help.
+Firstly by breaking up the tasks into smaller, more manageable ones with a realistic completion deadline. 
+For example one subheading or figure per day.
+Secondly, getting the student to share their work regularly and sending drafts even if the work is not yet "polished".
+Early feedback likely reduces wasted effort by maintaining the correct overall direction.
+Thirdly, joining a writing group can help with maintaining motivation and focus (Duffy, 2020).
+Lastly Meg suggested reevaluating the body of work that the candidate (Sam) had already done.
+Is the additional planned work really necessary?
+Perhaps the collected data is sufficient to get a PhD thesis passed.
 
 ## Critical analysis of supervisory practices
 
-This project is fairly typical. 
-Projects are sketched out to fill out three years with experiments, which leaves little time in case things do not work out as planned.
-It is naive to assume that experiments will work first time, and typically take twice as much time and effort as originally forecast.
-On top of this, the arrival of a new child and the pandemic resulted is delays to the project and additional sources of stress to the candidate.
-These culminated to the project completion falling behind schedule and beginning to put strain on the candidate.
-Some of the last experiments forecast to be completed were also cancelled due to the delays, which is also typical in my experience.
-It is important for the ST to draw a line where things can be completed in reasonable time and which are "aspirational".
-This is for the benefit of the student - nobody wants to spend 5 or more years on a PhD project, especially when the scholarship funds have come to an end.
+1087 words.
 
-One of the key points to take from this interview was that it is nearly impossible for a student to keep progress going when the work is outside the realm of expertise of the ST.
-The relevant expertise needs to be brought into the ST as soon as those experiments are conceived and definitely before the research design is finalised.
-It is hard to forecast how things will proceed 3 years ahead of time, but when the work is outside the realm of the ST expertise, big errors can be made in over- or under-estimating how much time and work are involved.
-These types of planning mistakes can lead to the candidate experiencing a great deal of stress toward the end of the project.
+Here I will give a critical evaluation of the supervisory practices I have learned about from Ben, Liz and Sam, as well as directly from Meg.
 
-Some research groups have a "welcome pack" of documentation about how to solve common issues and I think this is a good approach for onboarding new staff.[1,2]
+Firstly, it is hard to come up with any negative points about how Ben is supported.
+He is in the first stages of his program and there have yet to be any major setbacks or challenges.
+I feel like he has a very close and trusting relationship with his PS and the AS is playing the role of post-doc mentor.
+Ben has a very clear idea of his projects goals and direction.
+ST are aware that some of Ben's work will extend beyond the realm of expertise of the PS, but they have sufficient networks to recruit an AS to the ST.
+He is confident that the project expectations can be met and knows he has the full support of the ST.
+This in my view is a formula for a successful candidate.
+
+The circumstances that Liz and Sam on the other hand are not as rosy.
+They do not appear to be control of their project as they are running behind time.
+Given some of the factors are out of their control including COVID-19 restrictions, but the troubles appear to have begun before that time.
+Both students appear to have lost time early on in their project, which could have been avoided by better project planning and preparation.
+This is consistent with comments from Meg, who suggested that laying out expectations to the students in written form well before the project start date would have headed off some of Sam's issues.
+
+Some research groups have a "welcome pack" of documentation about how to solve common issues and I think this is a good approach for on-boarding new staff and PhD candidates, which I support wholeheartedly and will implement in 2021 (Aly 2018; Langin 2019).
+I am now a firm believer in extensive pre-project planning.
+This would have helped Liz and Sam not only with how to undertake common research tasks but also with administrative tasks.
+It would have also given them a "hit-the-ground-running" start.
+In a doctoral project it is essential for candidates to collect as much data in the first year as possible.
+Projects that involve extensive method development, optimisation and trial-and-error in the first year can lead to poorer outcomes at the end of the project.
+When a student is able to collect enough data and results to complete a large chunk of their work in the first year are filled with confidence; this gives them momentum and makes the remaining goals more realistic.
+As a supervisor, putting in extensive groundwork before the official start date is crucial.
+In addition to planning, this includes conducting preliminary experiments, collecting samples and pilot data which can be handed to the student to give them a leg up in the early stages of the project.
+
+In my day to day supervisory duties with Masters research students, I insist that a draft of chapter 1 of the Masters thesis be written before the official start date of the project.
+You may be thinking this is premature, however in their coursework, these students have already put together a literature review and proposal on the topic.
+So what I instruct them to do is to put these two documents together into a new chapter 1 and take onboard any comments/criticism provided by the assessor.
+This gives the students a major sense of achievement, but more importantly it gets them "switched-on" with regards to what is ahead of them when the project starts officially.
+It also gives me some perspective as to the proficiency of the student in terms of their understanding of the project as well as whether they will be needing extra help with writing.
+These are weak areas where I can focus my supervisory efforts.
+I can also assess their level of motivation.
+Each student has their own intrinsic motivation and the quality and completeness of the chapter 1 draft speaks to this directly.
+If the quality or completeness is poor, then I know I will need to invest more time and effort to engage the candidate and keep them focused on the next task, while if they provide a complete and high quality piece of work, I know that they will most likely be successful and what I need to focus on is providing technical support and career development opportunities when required.
+On the official start date we focus on conducting experiments/analysis and collecting data.
+Close supervision in the first 3 months is early period is extremely important for the project's overall trajectory.
+
+Roadblocks and challenges are something all researchers encounter.
+In my own experience with Masters research students, if they have a roadblock they will wait until the next progress meeting to raise the issue.
+This can be devastating to the timeline because as we know, difficulties arise very commonly in research.
+In the field I am in (computational biology) students can hit roadblocks within hours of coming out of the weekly progress meeting.
+For this reason, the weekly meeting model for supervision is inadequate - more intensive training is commonly needed.
+For example, instructing the student on how to do some of the fundamental steps and then watching them perform this work.
+This requires approximately 3-4 hrs with the candidate per week to impart these skills and then evaluate whether the candidate can implement those skills on their own.
+I also use an instant messaging app to check up on students regularly if I know they are doing difficult work where they are likely to hit roadblocks.
+Over time the candidate might require less intensive supervision, but it still needs to be frequent.
+
+Peer learning can be another powerful tool to overcome roadblocks.
+To foster this, I have tried to recruit students in "clusters", avoiding the situation where students perform a research project that is unrelated to other members of the group.
+Last year I recruited two Masters students to one project and it appeared to help because they were communicating with each other about solving problems they encountered.
+But the two personalities were not really compatible and communication broke down at some point.
+Last year I also supervised three final year biomedical students carrying out a mini-project together. 
+That group worked fantastically well, probably because the personalities were compatible (their previous academic performance was outstanding).
+This highlights for me the challenges regarding recruitment criteria and processes, many of Meg's strategies outlined in the Appendix I will take on board.
 
 ## References
 
-1. https://www.sciencemag.org/careers/2019/08/why-some-professors-welcome-new-lab-members-clear-expectations-writing
+Aly, M. (2018) “The key to a happy lab life is in the manual,” Nature, 561(7721), p. 7.
 
-2. https://www.nature.com/articles/d41586-018-06167-w 
+Brown, B. (2018) Dare to lead: Brave work. Tough conversations. Whole hearts. London, England: Ebury Digital. Available at: https://www.goodreads.com/book/show/40109367-dare-to-lead (Accessed: January 7, 2021).
+
+Duffy, J. (2020) How to run A virtual writers’ group - Julie Duffy - medium, Medium. Available at: https://medium.com/@StoryADayMay/how-to-run-a-virtual-writers-group-ef43cfcd3646 (Accessed: January 7, 2021).
+
+Kearns, H. & Finn, J. (2018). Supervising PhD students: A practical guide and toolkit.
+Adelaide: Thinkwell.
+
+Langin, K. (2019) “Why some professors welcome new lab members with clear expectations—in writing,” Science (New York, N.Y.). doi: 10.1126/science.caredit.aaz1825.
 
 ## Appendix 1 - Questions for HDR interview
 
@@ -148,8 +237,8 @@ Liz reported that her relationship with PS was very constructive and that she fe
 This was not just matters related to the research project but also personal or career development issues.
 For example, Liz was able to discuss her elevated anxiety issues with the supervisor openly and discuss support services and ways to manage anxiety.
 PS is a post-doctoral researcher based at Waurn Ponds and AS is a senior lecturer at Deakin Burwood.
-Liz has two informal advisors which are important for the day to day running of laboratory experiments.
-Liz meets with PS weekly about her research project and also attends weekly meetings with the informal advisors about laboratory matters.
+Liz has two informal advisers which are important for the day to day running of laboratory experiments.
+Liz meets with PS weekly about her research project and also attends weekly meetings with the informal advisers about laboratory matters.
 At the start of the project when they were drawing up the direction of the project, they would meet as a larger group but that was not seen as necessary once Liz was "up-and-running" with the research project.
 Liz indicated that she has doctoral colleagues who provide support to her, but she doesn't have an external mentor with whom she can discuss career development with.
 Liz worked with the ST to develop the project design and direction, but the ST were essential for indicating what was and wasn't feasible to achieve in a doctoral project.
@@ -164,7 +253,7 @@ Liz mentioned she was trained in lab work with the following technique:
 
 3. Trainee does alone, reports any issues.
 
-Liz mentions that she has been well supported to develop a well-rounded palatte of research skills, but noted that she lacked certain skills in bioinformatics analysis and that it would be useful to have additional resource available to students because she felt as if she was over-using the supervisor to troubleshoot these technical issues.
+Liz mentions that she has been well supported to develop a well-rounded palette of research skills, but noted that she lacked certain skills in bioinformatics analysis and that it would be useful to have additional resource available to students because she felt as if she was over-using the supervisor to troubleshoot these technical issues.
 Liz mentions good support for career development including presenting at conferences, networking and developing diverse work experience such as teaching.
 Liz discussed the learning outcomes early with PS, but couldn't recall them exactly.
 She did note that during the early development of the project, PS outlined clearly the expectations but they weren't written into a document.
@@ -172,8 +261,8 @@ She did mention however that the expectations of both student and supervisor was
 When asked about weaknesses in the ST or things that could have been done better, Liz mentions that ST recommended her get a female mentor to assist with career development beyond the immediate project.
 She also indicated that there was some periods early on where her work wasn't that effective and she lost time because she wasn't properly focused.
 She notes that she could have been more organised and "switched-on". 
-She blames herself mostly for that (but some blame needs to be leveled at the ST too).
-She notes that administative tasks are difficult because it's not easy to find the information or find someone to discuss issues with.
+She blames herself mostly for that (but some blame needs to be levelled at the ST too).
+She notes that administrative tasks are difficult because it's not easy to find the information or find someone to discuss issues with.
 Changing admin processes caused some headaches, particularly around how to order materials for laboratory work.
 Liz noted that there is good support for students in terms of mental health and medical facilities.
 
@@ -202,13 +291,13 @@ During the early phases of the project which were pre-COVID, Sam would make regu
 During COVID period, meeting with PS became weekly or biweekly 60-minute tele-meetings.
 
 Sam indicated that overall they were satisfied with the resources available for them to develop the research skills outside the laboratory including writing and data analysis.
-They indicated that the ST have been very supportive in most aspects, but one of the last parts of the research project involve some complicated genomics analysis and although a new advisor was brought into the panel recently, it was probably too late.
-It would have been better to bring in this advisor much earlier in the project.
+They indicated that the ST have been very supportive in most aspects, but one of the last parts of the research project involve some complicated genomics analysis and although a new adviser was brought into the panel recently, it was probably too late.
+It would have been better to bring in this adviser much earlier in the project.
 Sam is getting toward the writing phase of the project now and that PS has been very supportive throughout all phases of the project.
 The ST is supportive of the candidate doing other professional development activities including networking, conferences, teaching, etc.
-Sam was aware of the learnining outcomes of the program but didn't know them off the top of the head.
+Sam was aware of the learning outcomes of the program but didn't know them off the top of the head.
 
-When asked about whether there are any weak points in the ST, Sam refers to how the genomics advisor was recruited too late.
+When asked about whether there are any weak points in the ST, Sam refers to how the genomics adviser was recruited too late.
 Sam then opened up about things that could've been better managed.
 For example certain key things could have been completed earlier, like experimental design.
 When asked about support from the School/Faculty/Uni the candidate indicated they were happy with the level support, but did have some headaches with administration.
@@ -230,3 +319,101 @@ Candidate did not have any documentation from the ST about how to manage the pro
 6. What are your strategies for managing supervision in a panel?
 
 7. Refer to the responses from Sam about his experience as HDR candidate. Is there anything that you would have done differently as a supervisor to help Sam progress through the program.
+
+## Appendix 4 - HDR supervisor interview synopsis
+
+I conducted an interview with "Meg" (on 7th Jan 2021), an academic who has about five years experience in being a primary supervisor and runs her own successful scientific group.
+
+Without prompting, she opened up about some of her biggest mistakes in supervision:
+
+* Assuming each student was like you at that stage (they're not).
+
+* Assuming the student knows what the expectations of the program are (they don't).
+
+* Not each student can take criticism, some will see it as an attack and these attitudes cannot be changed quickly.
+
+Meg describes that early on in her supervision career, a number of challenges and crises arose which were detrimental to her and lead to an anxiety disorder diagnosis. 
+This motivated her to improve her practices.
+
+Her key approach to supervision was based around communication and planning that occurred before the project officially started:
+
+* To develop a "Lab manual" which details many things but most importantly,
+(i) the mission, values and behavioural standards of the group, 
+(ii) the expectations of each doctoral student, 
+(iii) instructions on how to do many common admin tasks and how to organise and plan the research work.
+
+* HDR supervision requires constant development.
+We as scientists are trained and evaluated on many things, but we receive little to no training on many aspects of our profession including leadership, project planning, risk management, HR, marketing, PR and promotions to name a few.
+Important to actively work on developing these skills.
+Meg mentioned courses and books including by Hugh Kearns and Brene Brown (Kearns & Finn 2018; Brown 2018).
+
+* To give the students sufficient reading materials and engage about specific project planning way before the official project start.
+
+* To build trust with the candidate early on. Firstly the recruitment process needs to involve factors to do with academic performance and experience, but there needs to be a sense of trust. 
+This trust needs to be build in the pre-project phase so that the candidate feels comfortable to undertake the project. 
+This involves open and free communication.
+
+In a day to day sense, Meg sees communication as the most important factor in maintaining good progression.
+Her approach is to meet with each member of the group separately every single week.
+Most of the time, candidates require about an hour, but if their progress is going well this can be reduced.
+But it needs to remain frequent, that is once or twice per week.
+The most important thing is to ask them whether they are having any difficulties and to provide assistance and support when they need it.
+If communication breaks down between candidate and supervisor it leads to poor progression.
+If a candidate is unhappy about something but doesn't feel able to raise the matter with the supervisor then this will breed resentment and stifle progress.
+
+Regarding recruitment, Meg set up a google form to get applicants to fill out.
+This filters students who would not be competitive in obtaining a scholarship.
+She makes a shortlist and interviews them with a set of questions about:
+
+* How they deal with certain situations
+
+* How they perceive teamwork
+
+* Their values
+
+* Their temprerament
+
+* Their motivation for the particular field of research
+
+Then she gets in touch with the referees and ask them a series of questions to see if they are consistent with candidate's own responses. 
+
+Meg then detailed the ways that she assesses whether a candidate is a good fit for the current group.
+candidates are invited into the weekly group meeting where they are introduced.
+Someone makes a scientific presentation and the new candidate is expected to ask one or more questions.
+Meg leaves the group to have a coffee break with the candidate and then Meg can later ask existing group members what they think of the new candidate.
+
+Meg feels that the recruitment and preparation strategy definitely helps to avoid later challenges and conflicts.
+Still crises will arise from time to time.
+Setting up the right culture in a lab is essential, because we are social animals and will most of the time follow the norms of our tribe.
+
+When asked about her approach to HDR supervision she mentioned the critical role of communication and trust in maintaining the relationships. 
+Being accountable is a major contributor to maintaining trust.
+Supporting candidates when they need it, for example helping to resolve conflicts that sometimes arise when candidate tries to carry out research activities.
+Meg mentioned very early planning (pre-project) which involved a rough outline of activities and expected dates, but recognised that due to the nature of research these were subject to change.
+
+Regarding training, Meg's laboratory is involved in many lab techniques, but thankfully she has access to post-doc and research assistant who are best placed to provide hands on instruction.
+For other techniques outside the realm of their lab, her advice is either to bring in an expert into the lab to train the group members or to delegate the work to collaborators labs who can provide the results more quickly.
+The decision to grow the range of techniques or delegate comes down to how much time it is expected to establish those techniques in house.
+Meg is involved in training students with statistics and data analysis. 
+She shows them how to do it and then Meg watches how students do it.
+There is a shared cloud data drive where students are required to keep their research data, so they can more easily show Meg what issues they are having and it can be audited by Mega and other group members.
+
+In each regular progress meeting, candidates are required to note down the minutes and action items, which are to be revisited in the following meeting.
+They also talk about other topic not related to the work, which may seem trivial, but actually important for mental health during the lock-down phase in 2020.
+Meg mentions that part of her job now is to be a motivator, to remind of the purpose of the experiments and benefit to public health.
+Also mentions that candidates also take care of themselves, so that they have a life outside the research project.
+This is especially important during the final phases of a thesis where candidates are working hard to write and perfect their thesis.
+
+Meg elaborated about how its important to allow students have a high level of autonomy regarding the writing of the thesis and candidature documents to give them ownership of the project.
+When providing feedback, it is more gentle and less critical as compared to the write-up of a scientific article.
+
+Meg described ways she uses to help candidates through the hectic and crucial last few months of candidature before thesis submission.
+Firstly by breaking up the tasks into smaller, more manageable ones with a realistic completion deadline.
+
+Getting students to share their work although it is only an incomplete first draft.
+Getting students to join writing groups (eg Duffy 2020).
+
+When discussing managing a supervision panel, Meg prefers to have co-supervisors which are very close colleagues and long time friends.
+This ensures that communication will be free and open, never had any issues with contributions from co-supervisors.
+
+
