@@ -32,7 +32,7 @@ In the three interviews I conducted with doctoral candidates (Ben=early,Liz=mid,
 Questions used in the interview and synopsis of responses are provided in the Appendix.
 
 The three candidates were recruited to their projects after successfully completing an Honours project in the same group and very similar topic. 
-All three had a ST that consisted of a PS and AS, they also had access to ES and other individuals and metors to which they could access additional expertise.
+All three had a ST that consisted of a PS and AS, they also had access to ES and other advisers and mentors to which they could access additional expertise.
 All three candidates reported very high level of support from their respective ST, both for completing the research work, but in career development.
 This was particularly important because all candidates' research was severely impacted by COVID-19 in 2020.
 In addition, all indicated that they were very comfortable with contacting their PS and AS when they ran into issues both large and small.
@@ -51,7 +51,7 @@ Sam reported that the additional AS was recruited to help with data analysis but
 
 ## Supervisor perspectives of supervisory practices
 
-600 words.
+605 words.
 
 I showed Meg (a current HDR supervisor) the synopsis of Sam's responses and sought their feedback on supervisory practices.
 Questions used in the interview and synopsis of responses are provided in the Appendix.
@@ -72,12 +72,12 @@ It leaves the candidate without the financial support of a scholarship, and the 
 
 In terms of Sam's situation, yes the AS was brought in too late, but if Sam want's to complete the work himself he will still struggle to get it done in time.
 Ideally if Sam's project was conceived to include genomics analysis, the AS should have been recruited at the start of the project at the planning phase.
-In Sam's current situation. Meg suggests recruiting a collaborator or even service provider to get the genomics analysis done ASAP, so Sam can focus on the interpretation and write up of the results.
+In Sam's current situation, Meg suggests recruiting a collaborator or even service provider to get the genomics analysis done ASAP, so Sam can focus on the interpretation and write up of the results.
 Sam may not gain expertise in bioinformatics analysis, which is unfortunate, but the lack of time is more important right now.
 
-Meg mentions the benefits of having a large professional network are that if the project takes a new direction, there are acquaintances she can discuss with and potentially bring them in as collaborators to complete an experiment or advisers so that the candidate can do it themself.
+Meg mentions the benefits of having a large professional network are that if the project takes a new direction, there are acquaintances she can discuss with and potentially bring them in as collaborators to complete an experiment or as advisers so that the candidate can do it themself.
 
-In terms of assistance that can be given to final-stage students like Sam, Meg mentioned supervisory strategies to help.
+In terms of assistance that can be given to students in the final-stage of write-up (like Sam), Meg mentioned supervisory strategies to help.
 Firstly by breaking up the tasks into smaller, more manageable ones with a realistic completion deadline. 
 For example one subheading or figure per day.
 Secondly, getting the student to share their work regularly and sending drafts even if the work is not yet "polished".
@@ -99,7 +99,7 @@ I feel like he has a very close and trusting relationship with his PS and the AS
 Ben has a very clear idea of his projects goals and direction.
 ST are aware that some of Ben's work will extend beyond the realm of expertise of the PS, but they have sufficient networks to recruit an AS to the ST.
 He is confident that the project expectations can be met and knows he has the full support of the ST.
-This in my view is a formula for a successful candidate.
+This in my view is a formula for successful progression.
 
 The circumstances that Liz and Sam on the other hand are not as rosy.
 They do not appear to be control of their project as they are running behind time.
@@ -112,7 +112,7 @@ I am now a firm believer in extensive pre-project planning.
 This would have helped Liz and Sam not only with how to undertake common research tasks but also with administrative tasks.
 It would have also given them a "hit-the-ground-running" start.
 In a doctoral project it is essential for candidates to collect as much data in the first year as possible.
-Projects that involve extensive method development, optimisation and trial-and-error in the first year can lead to poorer outcomes at the end of the project.
+Projects that involve extensive method development, optimisation and trial-and-error in the first year can lead to frustration and poorer outcomes at the end of the project.
 When a student is able to collect enough data and results to complete a large chunk of their work in the first year are filled with confidence; this gives them momentum and makes the remaining goals more realistic.
 As a supervisor, putting in extensive groundwork before the official start date is crucial.
 In addition to planning, this includes conducting preliminary experiments, collecting samples and pilot data which can be handed to the student to give them a leg up in the early stages of the project.
