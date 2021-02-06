@@ -41,8 +41,8 @@ I will assume that John's candidature has been confirmed and he is in the middle
 
 Let's start with the institutional policies and procedures. 
 
-Deakin's Higher Degrees by Research (HDR) policy is the cornerstone reference for supervisors to follow through all phases of a student's candidature (Deakin University 2019).
-The Higher Degrees by Research (HDR) Academic Progress Procedure (Deakin University 2020) outlines how the progress should be monitored (paragraphs 29-32) and what supervisor should do if they have concerns about student's progress (paragraphs 33-35).
+Deakin's Higher Degrees by Research (HDR) Policy is the cornerstone reference for supervisors to follow through all phases of a student's candidature (Deakin University 2019a).
+The Higher Degrees by Research (HDR) Academic Progress Procedure (Deakin University 2020a) outlines how the progress should be monitored (paragraphs 29-32) and what supervisor should do if they have concerns about student's progress (paragraphs 33-35).
 One of the first things that is done for an at risk student is setting up a Progress Support Panel who can work to give the student extra support, advice and refer them to additional resources.
 Section 7 of the procedure describes how the Progress Support Panel will be set up.
 The Deakin University Regulation 5.3(3) - Assessment and Academic Progress in Higher Degrees by Research policy document (Deakin 2015) also speaks to this.
@@ -59,22 +59,40 @@ Kearns and Finn (2017) dedicate a chapter to managing common challenges, which d
 James & Baldwin (1999) include a chapter on what to do if academic or personal crises crop up.
 From what we know about John, he is experiencing some personal issues and this is beginning to impact his academic performance, so advice from James & Baldwin should be very useful.
 
-Lastly I think HDR supervisors should definitely be trained in mental first aid. It will help them to identify the warning signs and give them good advice for brining mental health into the discussion in a careful way. Deakin has an introduction to mental health first aid unit as part of all staff training. This way, we can refer students to get professional mental help support they need. CACHE (2020) helped me to understand the different afflictions that are common in todays workplaces, and how as a supervisor I can be more supportive.
+Lastly I think HDR supervisors should definitely be trained in mental first aid.
+It will help them to identify the warning signs and give them good advice for brining mental health into the discussion in a careful way. 
+Deakin has an introduction to mental health first aid unit as part of all staff training. 
+This way, we can refer students to get professional mental help support they need. 
+CACHE (2020) helped me to understand the different afflictions that are common in todays workplaces, and how as a supervisor I can be more supportive.
 
 ## Part 2 - Key policy documents throughout the HDR candidature (400 words)
 
-Identify key policy documents that govern the standards and expectations of HDR
-supervision during the management of candidature across the early, mid and late
-phases of candidature – from application forms and processes through to the
-documentation required to submit the final thesis for the Library after
-examination. Collate the documentation into an electronic folio/spreadsheet
-listed in the order in which they will normally be used – we would recommend
-including links to documents and accompanying regulations in the presentation of
-the folio. All links should be accompanied by a clear description of what the link
-refers to and how and why it is to be used by supervisors and/or candidates. Some
-forms, such as that used to request intermission, are option and can be used across
-all phases of candidature so these may be collated together (400 words
-equivalent).
+(489 words)
+
+In the following table I have summarised the major _policy documents and forms_ important to guiding the standards and expectations of HDR supervision during early, mid and late phases of candidature.
+Documents necessary from both the candidate and supervisor perspectives are included.
+I have focused on documents relevant to the School of Life and Environmental Sciences (LES).
+
+| Stage | Document | Notes  |
+| --- | --- | --- |
+| All stages | _Higher Education Standards Framework (Threshold Standards) 2015_ | Section 4 pertains to quality standards of research training, supervision and monitoring.  |
+| All stages | _The Australian Code for the Responsible Conduct of Research (2018)_ | Contains A guide supporting the Australian Code for the Responsible Conduct of Research. |
+| All stages | Deakin University Higher Degrees by Research (HDR) Policy (Deakin University 2019a) | Is the overarching Deakin Policy to ensure compliance with National Standards and promote research excellence and student development. Also states the responsibilities of the supervisor.  |
+| All stages | Deakin University Higher Degrees by Research (HDR) Supervision procedure (Deakin University 2019b)  | Outlines the standards for supervision at Deakin. |
+| All stages | Course Learning Outcomes (Deakin, nd) | Supervisors need to be aware of the learning outcomes so they can provide appropriate support in these areas. |
+| Early | Role of HDR Coordinators (School of Life & Environmental Sciences, 2013) | Outlines the tasks and responsibilities for LES based HDR supervisors.  |
+| Early | Induction (Deakin 2019c) | Outlines Deakin wide induction information for students.   |
+| Early | HDR Information Handbook (School of Life & Environmental Sciences, 2020) | Outlines important information for students beginning at LES. |
+| Early | Induction and Training (Deakin, 2020b) | Inductions indormation for Animal Ethics, Biosafety & Biosecurity, Human Research Ethics, Radiation Safety Research Integrity and Nanosafety. |
+| Early | Building Access (Deakin 2020c) | Information for students to obtain a key or swipecard access to campus facilities. |
+| Early | Completing your Candidature Engagement Form (Deakin 2019d) | Contains important items for student-supervisor discussion, to be completed in the first month of candidature. |
+| Early | Individual Learning Plans | This is a document that is written in collaboration with the supervisor, that details the full range of knowledge and skills that need to be acquired during the course and how these will be attained. |
+| All stages | Online forms (Deakin 2020d) | Change of Candidature: Application, Change of Research Topic: Application, Extension of Candidature: Application, Extension of Scholarship: Application, Intermission of Candidature: Application, Transfer Between Research Degrees, Annual leave: Application, Parental leave: Application |
+| Early | Supervision (Deakin 2019e) | Outlines make-up of supervision team, management of relationship and how to get support. |
+| Early-Mid | What is confirmation? (Deakin 2019f) | Outlines the expectations for candidates to be confirmed, and the process if the program is not confirmed in the first instance. |
+| All | Code of Conduct for Staff (Deakin 2018) | Oulines the minimum behavioural standards for all staff |
+| All | Annual review (Deakin 2016) | Outlines the basic information about annual review for HDR students. | 
+| Mid-Late | Examination procedures (Deakin 2019g) | Outlines the Deakin examination process for examination from Notice of intention to submit thesis for examination, to Preparation and lodgement of library copies, and FAQs for students and staff. |
 
 ## Part 3 - Where the primary supervisor needs to make judgements (1000 words)
 
@@ -88,6 +106,24 @@ University’s procedures and rules. In some circumstances, the legal status of 
 documents and your attention to them will be important should any appeals or
 litigation occur (1000 words).
 
+* Recruiting suitable candidates
+
+* Deciding the scope of the project
+
+* How the project will be resourced
+
+* What will the supervisory team will look like 
+
+* Setting the expectations early
+
+* Monitoring 
+
+* Annual review process
+
+* When challenges arise
+
+* Thesis structure options https://www.deakin.edu.au/students/research/your-thesis-and-examinations/thesis-structure-options
+
 ## Part 4 - Key supervisory judgements to support John's candidature progression
 
 For your hypothetical candidate discussed in the collaborative peer cloud
@@ -100,13 +136,35 @@ to the candidate (500 words).
 
 CACHE (2020) _Understanding Mental Health First Aid and Mental Health Advocacy in the Workplace_, Learning Curve Group (LCG).
 
-Deakin University (2015) _Regulation 5.3(3) - Assessment and Academic Progress in Higher Degrees by Research_, Deakin University, Accessed 1st February 2021. Source: <https://www.deakin.edu.au/__data/assets/pdf_file/0008/548090/regulation_5_3_3_assessment_and_academic_progress_in_higher_degrees_by_research_cl.pdf>
+Deakin University (nd) _AQF level 9/10 – Masters and PhD Course Learning Outcomes_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/__data/assets/pdf_file/0018/317106/HDR-Course-Learning-Outcomes.pdf>.
 
-Deakin University (2019a) _Higher Degrees by Research (HDR) Policy_, Deakin University, Accessed 1st February 2021. Source: <https://policy.deakin.edu.au/document/view-current.php?id=51>
+Deakin University (2015) _Regulation 5.3(3) - Assessment and Academic Progress in Higher Degrees by Research_, Deakin University, Accessed 1st February 2021. Source: <https://www.deakin.edu.au/__data/assets/pdf_file/0008/548090/regulation_5_3_3_assessment_and_academic_progress_in_higher_degrees_by_research_cl.pdf>.
 
-Deakin University (2019b) _Higher Degrees by Research (HDR) Supervision Procedure_, Deakin University, Accessed 1st February 2021. Source: <https://policy.deakin.edu.au/document/view-current.php?id=52>
+Deakin University (2016) _Annual review_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/induction-and-candidature/annual-review>.
 
-Deakin University (2020) _Higher Degrees by Research (HDR) Academic Progress Procedure_, Deakin University, Accessed 1st February 2021. Source: <https://policy.deakin.edu.au/view.current.php?id=00048>
+Deakin University (2018) _Code of Conduct_, Deakin University, Accessed 6th February 2021. Source: <https://policy.deakin.edu.au/document/view-current.php?id=84&_ga=2.63513967.1309614898.1612609045-390847314.1571391868>.
+
+Deakin University (2019a) _Higher Degrees by Research (HDR) Policy_, Deakin University, Accessed 1st February 2021. Source: <https://policy.deakin.edu.au/document/view-current.php?id=51>.
+
+Deakin University (2019b) _Higher Degrees by Research (HDR) Supervision Procedure_, Deakin University, Accessed 1st February 2021. Source: <https://policy.deakin.edu.au/document/view-current.php?id=52>.
+
+Deakin University (2019c) _Induction_, Deakin University, Accessed 1st February 2021. Source: <https://www.deakin.edu.au/students/research/induction-and-candidature/induction>.
+
+Deakin University (2019d) _Completing your Candidature Engagement Form_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/induction-and-candidature/candidature-engagement-form>.
+
+Deakin University (2019e) _Supervision_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/induction-and-candidature/supervision>.
+
+Deakin University (2019f) _What is confirmation?_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/induction-and-candidature/what-is-confirmation>.
+
+Deakin University (2019g) _Examination procedures_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/your-thesis-and-examinations/examination-procedures>.
+
+Deakin University (2020a) _Higher Degrees by Research (HDR) Academic Progress Procedure_, Deakin University, Accessed 1st February 2021. Source: <https://policy.deakin.edu.au/view.current.php?id=00048>.
+
+Deakin University (2020b) _Induction and Training_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/research-support-and-scholarships/integrity-secure/induction-and-training>.
+
+Deakin University (2020c) _Building Access_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/safety-and-security/building-access>
+
+Deakin University (2020d) _Online forms_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/induction-and-candidature/online-forms>
 
 Denholm C and Evans T (2007) _Supervising doctorates downunder: Keys to effective supervision in Australia and New Zealand_, ACER Press, Camberwell.
 
@@ -116,3 +174,9 @@ Kearns H and Finn J (2018) _Supervising PhD students: A practical guide and tool
 Thinkwell, Adelaide.
 
 James R and Baldwin G (2006) _Eleven practices of effective postgraduate research supervisors_, The University of Melbourne, Melbourne.
+
+School of Life & Environmental Sciences (2013) _Role of HDR Coordinators_, Deakin University, Accessed 6th February 2021. Source: <https://wiki.deakin.edu.au/pages/viewpage.action?pageId=155738013>
+
+School of Life & Environmental Sciences (2020) _HDR Information Handbook_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/__data/assets/pdf_file/0013/2051122/LES-HDR-Handbook-2020.pdf>
+
+
