@@ -28,7 +28,7 @@ ST: supervisory team
 
 ## Part 1 - Discuss a particular hypothetical candidate
 
-(602 words)
+(565 words)
 
 Here is the hypothetical situation we received.
 
@@ -45,17 +45,17 @@ Deakin's Higher Degrees by Research (HDR) Policy is the cornerstone reference fo
 The Higher Degrees by Research (HDR) Academic Progress Procedure (Deakin University 2020a) outlines how the progress should be monitored (paragraphs 29-32) and what supervisor should do if they have concerns about student's progress (paragraphs 33-35).
 One of the first things that is done for an at risk student is setting up a Progress Support Panel who can work to give the student extra support, advice and refer them to additional resources.
 Section 7 of the procedure describes how the Progress Support Panel will be set up.
-The Deakin University Regulation 5.3(3) - Assessment and Academic Progress in Higher Degrees by Research policy document (Deakin 2015) also speaks to this.
+The Deakin University Regulation 5.3(3) - Assessment and Academic Progress in Higher Degrees by Research policy document (Deakin University 2015) also speaks to this.
 In particular section 4 addresses unsatisfactory academic progress, whether that is to provide councelling and assistance, or to terminate enrolment.
 
-The Higher Degrees by Research (HDR) Supervision Procedure (Deakin 2019b) is key for supervisors, especially the section on monitoring progress (paragraphs 25-29).
+The Higher Degrees by Research (HDR) Supervision Procedure (Deakin University 2019b) is key for supervisors, especially the section on monitoring progress (paragraphs 25-29).
 At a higher level, the supervisor should be aware of the _Higher Education Standards Framework (Threshold Standards) 2015_, especially section 4 pertaining to research training, and exceed these minimum standards for supervision and monitoring of HDR student progress.
 These are essential because if student feels they have not been properly supervised, the student may complain or take legal action against the university.
 To protect against this, supervisors will need to demonstrate that they have been compliant with the level of monitoring, producing evidence to prove it.
 
 With regards to managing challenges like this, there are some tips in the wider literature. 
 Denholm and Evans (2007) devote a chapter to managing candidate's health needs, this is useful because John's stress could be considered a mental affliction.
-Kearns and Finn (2017) dedicate a chapter to managing common challenges, which drills into the mental health challenges experienced by some candidates and how supervisors can best manage the situation.
+Kearns and Finn (2018) dedicate a chapter to managing common challenges, which drills into the mental health challenges experienced by some candidates and how supervisors can best manage the situation.
 James & Baldwin (1999) include a chapter on what to do if academic or personal crises crop up.
 From what we know about John, he is experiencing some personal issues and this is beginning to impact his academic performance, so advice from James & Baldwin should be very useful.
 
@@ -65,9 +65,9 @@ Deakin has an introduction to mental health first aid unit as part of all staff 
 This way, we can refer students to get professional mental help support they need. 
 CACHE (2020) helped me to understand the different afflictions that are common in todays workplaces, and how as a supervisor I can be more supportive.
 
-## Part 2 - Key policy documents throughout the HDR candidature (400 words)
+## Part 2 - Key policy documents throughout the HDR candidature
 
-(489 words)
+(538 words)
 
 In the following table I have summarised the major _policy documents and forms_ important to guiding the standards and expectations of HDR supervision during early, mid and late phases of candidature.
 Documents necessary from both the candidate and supervisor perspectives are included.
@@ -75,64 +75,161 @@ I have focused on documents relevant to the School of Life and Environmental Sci
 
 | Stage | Document | Notes  |
 | --- | --- | --- |
-| All stages | _Higher Education Standards Framework (Threshold Standards) 2015_ | Section 4 pertains to quality standards of research training, supervision and monitoring.  |
-| All stages | _The Australian Code for the Responsible Conduct of Research (2018)_ | Contains A guide supporting the Australian Code for the Responsible Conduct of Research. |
+| All stages | _Higher Education Standards Framework (Threshold Standards) 2015_ | Section 4 pertains to quality standards of research training, supervision and monitoring. |
+| All stages | _The Australian Code for the Responsible Conduct of Research (2018)_ | Contains A guide supporting the Australian Code for the Responsible Conduct of Research. There is a supplementary document specifically addressing the responsibility of research supervisors and institutions. |
 | All stages | Deakin University Higher Degrees by Research (HDR) Policy (Deakin University 2019a) | Is the overarching Deakin Policy to ensure compliance with National Standards and promote research excellence and student development. Also states the responsibilities of the supervisor.  |
 | All stages | Deakin University Higher Degrees by Research (HDR) Supervision procedure (Deakin University 2019b)  | Outlines the standards for supervision at Deakin. |
-| All stages | Course Learning Outcomes (Deakin, nd) | Supervisors need to be aware of the learning outcomes so they can provide appropriate support in these areas. |
-| Early | Role of HDR Coordinators (School of Life & Environmental Sciences, 2013) | Outlines the tasks and responsibilities for LES based HDR supervisors.  |
-| Early | Induction (Deakin 2019c) | Outlines Deakin wide induction information for students.   |
-| Early | HDR Information Handbook (School of Life & Environmental Sciences, 2020) | Outlines important information for students beginning at LES. |
-| Early | Induction and Training (Deakin, 2020b) | Inductions indormation for Animal Ethics, Biosafety & Biosecurity, Human Research Ethics, Radiation Safety Research Integrity and Nanosafety. |
-| Early | Building Access (Deakin 2020c) | Information for students to obtain a key or swipecard access to campus facilities. |
-| Early | Completing your Candidature Engagement Form (Deakin 2019d) | Contains important items for student-supervisor discussion, to be completed in the first month of candidature. |
+| All stages | Course Learning Outcomes (Deakin University, nd) | Supervisors need to be aware of the learning outcomes so they can provide appropriate support in these areas. |
+| Early | Role of HDR Coordinators (School of Life & Environmental Sciences, 2013) | Outlines the tasks and responsibilities for LES based HDR supervisors. |
+| Early | Induction (Deakin University 2019c) | Outlines Deakin wide induction information for students.   |
+| Early | HDR Information Handbook (School of Life & Environmental Sciences, 2020a) | Outlines important information for students beginning at LES. |
+| Early | Induction and Training (Deakin University, 2020b) | Inductions indormation for Animal Ethics, Biosafety & Biosecurity, Human Research Ethics, Radiation Safety Research Integrity and Nanosafety. |
+| Early | Building Access (Deakin University 2020c) | Information for students to obtain a key or swipecard access to campus facilities. |
+| Early | Completing your Candidature Engagement Form (Deakin University 2019d) | Contains important items for student-supervisor discussion, to be completed in the first month of candidature. |
 | Early | Individual Learning Plans | This is a document that is written in collaboration with the supervisor, that details the full range of knowledge and skills that need to be acquired during the course and how these will be attained. |
-| All stages | Online forms (Deakin 2020d) | Change of Candidature: Application, Change of Research Topic: Application, Extension of Candidature: Application, Extension of Scholarship: Application, Intermission of Candidature: Application, Transfer Between Research Degrees, Annual leave: Application, Parental leave: Application |
-| Early | Supervision (Deakin 2019e) | Outlines make-up of supervision team, management of relationship and how to get support. |
-| Early-Mid | What is confirmation? (Deakin 2019f) | Outlines the expectations for candidates to be confirmed, and the process if the program is not confirmed in the first instance. |
-| All | Code of Conduct for Staff (Deakin 2018) | Oulines the minimum behavioural standards for all staff |
-| All | Annual review (Deakin 2016) | Outlines the basic information about annual review for HDR students. | 
-| Mid-Late | Examination procedures (Deakin 2019g) | Outlines the Deakin examination process for examination from Notice of intention to submit thesis for examination, to Preparation and lodgement of library copies, and FAQs for students and staff. |
+| All stages | Online forms (Deakin University 2020d) | Change of Candidature: Application, Change of Research Topic: Application, Extension of Candidature: Application, Extension of Scholarship: Application, Intermission of Candidature: Application, Transfer Between Research Degrees, Annual leave: Application, Parental leave: Application |
+| Early | Supervision (Deakin University 2019e) | Outlines make-up of supervision team, management of relationship and how to get support. |
+| Early-Mid | What is confirmation? (Deakin University 2019f) | Outlines the expectations for candidates to be confirmed, and the process if the program is not confirmed in the first instance. |
+| Early-Mid | HDR Confirmation Guidelines (School of Life & Environmental Sciences, 2020b) | Outlines the process of confirmation and the role of a written report and seminar, and possible outcomes.  |
+| All | Code of Conduct for Staff (Deakin University 2018) | Oulines the minimum behavioural standards for all staff |
+| All | Annual review (Deakin University 2016) | Outlines the basic information about annual review for HDR students. | 
+| Mid-Late | Examination procedures (Deakin University 2019g) | Outlines the Deakin examination process for examination from Notice of intention to submit thesis for examination, to Preparation and lodgement of library copies, and FAQs for students and staff. |
 
-## Part 3 - Where the primary supervisor needs to make judgements (1000 words)
+## Part 3 - Where the primary supervisor needs to make judgements
 
-Identify and note the matters on which (you as) the Principal Supervisor need to
-act or make a judgement. Develop a schedule that will enable you to monitor the
-stages required in candidature for which you are responsible. Produce an
-annotated list of the documents and the key judgement(s) required. Where
-appropriate, include in the annotations notes and links to the reading that you
-have undertaken for the unit. Each document will have its reference point in the
-University’s procedures and rules. In some circumstances, the legal status of these
-documents and your attention to them will be important should any appeals or
-litigation occur (1000 words).
+(1480 words)
 
-* Recruiting suitable candidates
+A sucessful HDR project is a culmination of many factors that need to come together in the right way.
+In this miniessay I will detail the matters upon which the PS needs to make judgements with basis in policy and additional reading.
 
-* Deciding the scope of the project
+### Deciding the scope of the project, resources and supervisory team
 
-* How the project will be resourced
+Before a project gets underway the PS will decide the direction of the project to pursue, along with the depth; developing a written proposal and draft plan (Austin 2002; Gelling and Engward 2014).
+Depth I define as what can reasonably be achieved with the resources that will be available and the capabilities of a candidate at the expected competency.
+The direction of the project is incredibly important; take for example these two examples:
 
-* What will the supervisory team will look like 
+1. A project is an obvious continuation of an existing project that uses much the same methods and where the PS has extensive experience.
 
-* Setting the expectations early
+2. A project in a "new" field where the PS has little expertise.
 
-* Monitoring 
+Project 1 may have a higher probability of completion, but project 2 may be more "novel" and lead to breakthrough discoveries.
+Project 2 is more difficult due to a lack of established resources in that group, so progress might be significantly slower.
+Project 2 is suited to a candidate that enjoys difficult challenges and can work more independently.
 
-* Annual review process
+Depending on the type of project, it may be easier to alter the depth of the project during the candidature rather than the direction.
+For example if unforseen difficulties come up midway through a project, it might be decided to cancel some planned work.
+On the other hand if the project proceeds ahead of time, additional research work might be included into the plan.
+If a project experiences severe setbacks, the direction of the project may have to be altered.
 
-* When challenges arise
+PS will need to judge whether the project scope is feasible with resources at hand, or whether additional resources are necessary.
+For example in the field of life science that I work, we need facilities, equipment, consumables, and labour/expertise to come together properly for a project or series of experiments to be successful.
+For example is there an animal house facility where mouse work can be conducted?
+A budget needs to be drawn up to capture the costs of carrying out the work with some contingency.
+This might include laboratory reagents, equipment and other costs.
+If insufficient, PS may need to use external facilities and/or raise funds via grant applications, industry partnerships or other initiatives, or the amount of work may need to be cut-down.
+These are typically captured in the project plan which will include a flowchart of stages and outline of resources needed at each stage (Riol & Thullier 2015).
 
-* Thesis structure options https://www.deakin.edu.au/students/research/your-thesis-and-examinations/thesis-structure-options
+Expertise is an important ingredient in resourcing a project and it is important that the supervisory team has the expertise to support a HDR candidate through a project.
+The supervisory team consists of a PS and one or more AS, where the role of an AS is less well defined.
+In some cases, the AS is important to provide some particular expertise that is critical to one or more components of a project that is outside the realm of expertise of the PS.
+In other cases, the AS is a more senior academic who provides input to the overall direction of the project but not in a day-to-day sense.
+In large and well resourced groups there may be post doctoral researchers who provide mentoring and assistance on a daily basis where co-supervision is an appropriate way to recognise this mentoring and assistance.
+The make-up of the supervisory team is a critical decision made by PS that impacts the feasibility of a project.
+It needs to be considered regularly throughout the candidature, not just at the start, and must include input from the candidate themselves.
+
+### Recruiting, setting expectation and tailoring an individual learning plan
+
+PS needs to recruit a candidate that is suited to the project and with foreseeably high chance of success.
+Kearns and Finn (2018) devote a chapter to good recruitment and selection because mistakes in this area can lead to severe setbacks and project failure.
+Candidates need to be able to demonstrate why they are the right person for the project.
+While academic excellence in undergraduate courses is an indication that a student has a high aptitude for learning, HDR degree completion also requires passion, determination and resilience which are not captured well in undergrad course results.
+Judgement is needed to design a recruitment process that identifies candidates that have the ability to take on and complete a complicated research project.
+Hopefully the new recruit will become familiar enough with the project to take ownership of the direction of the project in the first year, fine-tuning the research plan and interpreting the results.
+
+It is important to welcome a new candidate into the program with clear expectations (James & Baldwin 1999).
+The PS will need to inform the candidate that both supervisor and candidate will need to abide by the national threshold standards as well as the institutional/departmental standards.
+All supervisors that I have had previously have outlined the expectations verbally, but it becoming best practise to document these expectations in a type of "Research group manual" (Langin, 2019).
+It may also be important to ask candidates about particular parts of the expectations to make sure they are aware of the expectations and abiding by them.
+For example, asking about the hours that a candidate will spend on the research project versus part-time work, or what the candidate understands about research integrity policies.
+
+The individual learning plan (ILP) is a document that is crafted together with the candidate.
+It outlines the learning and skill development necessary for the candidate to successfully complete their candidature and project.
+The PS input into the the ILP will need to be consistent with the candidates capabilities, for example the learning goals need to be in the candidate's zone of proximal development.
+
+Hand in hand with this the PS will need to decide on communication, monitoring and feedback styles.
+Students may have different needs and temperaments.
+For example some students do not take criticism so well whereas others do.
+Some students are open and forthright with seeking assistance and others are less proactive.
+
+### Project monitoring and dealing with challenges
+
+Project monitoring will include a plan for regular meetings with discussion on short term progress and reporting any difficulties the candidate is experiencing.
+The monitoring should involve regular review of the learning goals, as well as the milestones in the project plan.
+Meeting minutes should be recorded, shared and archived for future reference; tips on organising meetings are given in Kearns and Finn (2018).
+I have also begun recording meetings with Masters research students so they can revisit them at leisure.
+The type of monitoring should be tailored to the candidate's needs, for example some students may need more intense supervision or positive reinforcement.
+In all cases it is important that the supervisor is monitoring student output, giving timely quality feedback and motivating the candidate towards completion of the next milestone (James and Baldwin 1999).
+
+An important early milestone in the project is the confirmation.
+At Deakin it needs to be completed in the first year for full-time candidates and is a document written by the candidate along with a seminar to outline the project plan and detail any early progress in the project (Deakin University 2019f; School of Life and Environmental Sciences, 2020b).
+PS input is important in the panel's decision whether to confirm a candidate.
+
+Additionally, at each year in the candidature the candidate's progress is documented and reviewed.
+The PS first reports on whether student's report is adequate, which can be revised by the student.
+The report is important because the Head of Academic Unit will decide on whether student progress is satisfactory (Deakin University 2020a).
+
+HDR candidature is difficult and long.
+Things go wrong, both in research projects as well as in personal lives.
+If the supervisor feels that progress is not up to scratch, they need to act to address it (Kearns and Finn 2018).
+PS will need to ensure that the candidate has all the support available to them.
+PS can recommend changes to project scope, resources, candidature, supervisors or intermission.
+In the case of inadequate annual progress report, a Performance Management Panel may be implemented.
+
+### Completion
+
+PS will be critical in the completion and examination process (Deakin University 2019i).
+Firstly by giving guidance to the candidate so they select a thesis structure that will give a successful result (Deakin University 2019h).
+PS will ensure that the candidate's work is up to scratch by providing quality guidance, feedback and critique.
+PS supervisor must approve the notice of intent to submit, as well as approve the thesis for examination.
+PS nominates examiners examiners who can judge quality of the thesis.
+Lastly, if corrections are recommended by the examiners, PS will provide guidance on how to complete these.
 
 ## Part 4 - Key supervisory judgements to support John's candidature progression
 
-For your hypothetical candidate discussed in the collaborative peer cloud
-discussions (see 1), explain the key supervisory judgements you will need to make
-to support candidature progression during this time, and the processes,
-procedures and resources that you can access to inform the advice you will provide
-to the candidate (500 words).
+(353 words)
+
+In order to make any judgements about supporting John's progress, the first step would be to better understand his situation.
+It is important not to be nosy, however an open discussion is necessary to understand whether the difficulties are short term or ongoing, severe or moderate.
+This might be best addressed by speaking directly to the expectations documentation outlined at the start of candidature along with discussion of how far behind John is in meeting his own deadlines.
+Refering to meeting minutes also helps to document where progress has broken down.
+This will demonstrate that PS has adequately monitored student progress as described in the Supervision Procedure (Deakin University 2019b).
+John should be reminded about the different support services that are available which includes Counselling, Medical, Financial counseling and seeking help and advice from the HDR coordinator, as well as taking annual leave/intermission to address personal issues and stress.
+If John's issues centre around having limited time, PS might recommend John transfer to part-time candidature.
+John should be reminded about the Academic Progress procedure (Deakin University 2020a) and what the process entails.
+
+In general it is wise to follow the Academic Progress procedure (Deakin University 2020a) and if PS believes that John is at risk of not making satisfactory progress, they should notify the Faculty and discuss with HDR coordinator.
+PS should not wait for the annual progress review, indeed the earlier this process begins, the quicker the problems can be resolved.
+The Faculty will arrange a support team and establish a Progress Support Panel if neccessary.
+PS will be a part of the Progress Support Panel and will provide input to the decisions made.
+Options include:
+
+* Resumption of normal candidature. 
+
+* Extended period of more detailed progress reporting.
+
+The above options may be complimented with additional support for skills development and appointment of another supervisor(s).
+Perhaps with amended deadlines to ensure satisfactory progress.
+
+* Changes to candidature ranging from being transferred from doctoral to masters candidature to termination.
+
+In collaboration with my group we have collated a schedule of documents that are useful for John and PS at the following URL:
+https://deakin365-my.sharepoint.com/:x:/g/personal/m_jennings_deakin_edu_au/EQs24m2nasFFjb52MUfdY9EB1HEnYJchBoidLUCpUfZwMg?rtime=HeFOntbL2Eg
 
 ## References
+
+Austin, J. (2002) Writing a Research Plan. American Association for the Advancement of Science. Accessed 6th February. Source: <https://www.sciencemag.org/careers/2002/07/writing-research-plan>.
+
+Brown, B. (2018) Dare to lead: Brave work. Tough conversations. Whole hearts. London, England: Ebury Digital. Source: https://www.goodreads.com/book/show/40109367-dare-to-lead (Accessed: January 7, 2021).
 
 CACHE (2020) _Understanding Mental Health First Aid and Mental Health Advocacy in the Workplace_, Learning Curve Group (LCG).
 
@@ -158,6 +255,10 @@ Deakin University (2019f) _What is confirmation?_, Deakin University, Accessed 6
 
 Deakin University (2019g) _Examination procedures_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/your-thesis-and-examinations/examination-procedures>.
 
+Deakin University (2019h) _HDR Assessment Procedure_, Deakin University, Accessed 7th February 2021. Source: <https://policy.deakin.edu.au/view.current.php?id=00050>.
+
+Deakin University (2019i) _Thesis structure options_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/your-thesis-and-examinations/thesis-structure-options>.
+
 Deakin University (2020a) _Higher Degrees by Research (HDR) Academic Progress Procedure_, Deakin University, Accessed 1st February 2021. Source: <https://policy.deakin.edu.au/view.current.php?id=00048>.
 
 Deakin University (2020b) _Induction and Training_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/research-support-and-scholarships/integrity-secure/induction-and-training>.
@@ -166,17 +267,24 @@ Deakin University (2020c) _Building Access_, Deakin University, Accessed 6th Feb
 
 Deakin University (2020d) _Online forms_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/students/research/induction-and-candidature/online-forms>
 
+Deakin University (2021) _Higher Degrees by Research (HDR) Admission, Selection and Enrolment procedure_, Deakin University, Accessed 7th February 2021. Source: <https://policy.deakin.edu.au/view.current.php?id=00049>
+
 Denholm C and Evans T (2007) _Supervising doctorates downunder: Keys to effective supervision in Australia and New Zealand_, ACER Press, Camberwell.
+
+Gelling, L and Engward, H. (2015) _Planning a research project_,Nursing standard (Royal College of Nursing). Special supplement 29(28):44-8. DOI: 10.7748/ns.29.28.44.e8834.
 
 _Higher Education Standards Framework (Threshold Standards) 2015_ (Cth) s 4
 
-Kearns H and Finn J (2018) _Supervising PhD students: A practical guide and toolkit_,
-Thinkwell, Adelaide.
+James R and Baldwin G (1999) _Eleven practices of effective postgraduate research supervisors_, The University of Melbourne, Melbourne.
 
-James R and Baldwin G (2006) _Eleven practices of effective postgraduate research supervisors_, The University of Melbourne, Melbourne.
+Kearns H and Finn J (2018) _Supervising PhD students: A practical guide and toolkit_, Thinkwell, Adelaide.
+
+Langin, K. (2019) _Why some professors welcome new lab members with clear expectations—in writing_, Science (New York, N.Y.). doi: 10.1126/science.caredit.aaz1825.
 
 School of Life & Environmental Sciences (2013) _Role of HDR Coordinators_, Deakin University, Accessed 6th February 2021. Source: <https://wiki.deakin.edu.au/pages/viewpage.action?pageId=155738013>
 
 School of Life & Environmental Sciences (2020) _HDR Information Handbook_, Deakin University, Accessed 6th February 2021. Source: <https://www.deakin.edu.au/__data/assets/pdf_file/0013/2051122/LES-HDR-Handbook-2020.pdf>
 
+School of Life & Environmental Sciences (2020) _HDR Confirmation Guidelines-_, Deakin University, Accessed 7th February 2021. Source: <https://www.deakin.edu.au/__data/assets/pdf_file/0016/2040109/LES-HDR-Confirmation-Guidelines-2020.pdf>
 
+Riol, H and Thullier, D (2015) _Project management for academic research projects: Balancing structure and flexibility_, International Journal of Project Organisation and Management, 7(3):251. DOI: 10.1504/IJPOM.2015.070792.
